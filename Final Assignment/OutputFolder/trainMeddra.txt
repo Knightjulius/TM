@@ -519,7 +519,7 @@ days	O
 with	O
 recent	O
 body	B-ADR		10042674
-swelling	B-ADR		10011301
+swelling	B-ADR		10042707
 ,	O
 face	B-ADR		10016065
 ,	O
@@ -1025,12 +1025,12 @@ pain	B-ADR		10033477
 in	I-ADR		10033477
 the	I-ADR		10033477
 ovaries	I-ADR		10033477
-(	B-ADR		10033477
-menopausal	I-ADR		10033477
-for	I-ADR		10033477
-20	I-ADR		10033477
-years	I-ADR		10033477
-)	I-ADR		10033477
+(	B-ADR		10046823
+menopausal	I-ADR		10046823
+for	I-ADR		10046823
+20	I-ADR		10046823
+years	I-ADR		10046823
+)	I-ADR		10046823
 pressure	B-ADR		10036637
 in	I-ADR		10036637
 the	I-ADR		10036637
@@ -1499,7 +1499,7 @@ approx	O
 years	O
 it	O
 started	O
-affecting	B-ADR		10000479
+affecting	B-ADR		10062237
 my	B-ADR		10062237
 kidneys	I-ADR		10062237
 ,	O
@@ -1812,8 +1812,8 @@ disorientation	B-ADR		10013394
 
 followed	O
 by	O
-ulceration	B-ADR		10017822
-of	I-ADR		10017822
+ulceration	B-ADR		10056090
+of	I-ADR		10056090
 the	B-ADR		10056090
 osophragus	I-ADR		10056090
 ,	O
@@ -1887,7 +1887,7 @@ it	O
 has	O
 left	O
 me	O
-feeling	B-ADR		10012374
+feeling	B-ADR		10016256
 exausted	B-ADR		10016256
 ,	O
 and	O
@@ -1964,7 +1964,7 @@ this	O
 i	O
 couldnt	B-ADR		10046555
 pass	I-ADR		10046555
-urine	B-ADR		10018867
+urine	B-ADR		10046555
 ,	O
 when	O
 i	O
@@ -6513,7 +6513,7 @@ immediatedly	O
 muscle	B-ADR		10028411
 /	O
 joint	B-ADR		10003239
-pain	B-ADR		10028411
+pain	B-ADR		10003239
 eased	O
 and	O
 sleeping	O
@@ -8863,7 +8863,7 @@ intense	B-ADR		10034263
 pelvic	I-ADR		10034263
 and	O
 back	B-ADR		10003993
-pain	B-ADR		10034263
+pain	B-ADR		10003993
 .	O
 
 Felt	O
@@ -16543,8 +16543,8 @@ ABOUT	O
 Muddled	B-ADR		10012805
 thinking	I-ADR		10012805
 ,	O
-loss	B-ADR		10041909
-of	I-ADR		10041909
+loss	B-ADR		10028350
+of	I-ADR		10028350
 strength	B-ADR		10028350
 and	O
 stamina	B-ADR		10041909
@@ -16744,10 +16744,10 @@ I	O
 also	O
 started	O
 have	O
-muscle	B-ADR		10040617
-aches	I-ADR		10040617
-in	I-ADR		10040617
-my	I-ADR		10040617
+muscle	B-ADR		10028836
+aches	I-ADR		10028836
+in	I-ADR		10028836
+my	I-ADR		10028836
 neck	B-ADR		10028836
 and	O
 shoulders	B-ADR		10040617
@@ -16839,7 +16839,7 @@ of	I-ADR		10024862
 energy	I-ADR		10024862
 .	O
 
-Difficulty	B-ADR		10012805
+Difficulty	B-ADR		10013952
 thinking	B-ADR		10012805
 and	O
 speaking	B-ADR		10013952
@@ -17119,8 +17119,8 @@ Pain	B-ADR		10033371
 
 Deep	O
 throbbing	O
-pain	B-ADR		10028411
-in	I-ADR		10028411
+pain	B-ADR		10003239
+in	I-ADR		10003239
 my	B-ADR		10003239
 joints	I-ADR		10003239
 and	O
@@ -17606,7 +17606,7 @@ have	O
 back	B-ADR		10003993
 and	O
 chest	B-ADR		10008479
-pain	B-ADR		10003993
+pain	B-ADR		10008479
 that	O
 made	O
 think	O
@@ -19081,7 +19081,7 @@ and	O
 still	O
 suffer	O
 terrible	O
-muscle	B-ADR		10028411
+muscle	B-ADR		10028289
 pain	B-ADR		10028411
 and	O
 wasting	B-ADR		10028289
@@ -19513,7 +19513,7 @@ increased	O
 bone	B-ADR		10006002
 and	O
 muscle	B-ADR		10028411
-pain	B-ADR		10028411
+pain	B-ADR		10006002
 .	O
 
 I	O
@@ -20125,7 +20125,7 @@ any	O
 physical	B-ADR		CONCEPT_LESS
 /	O
 emotional	B-ADR		10033428
-changes	B-ADR		CONCEPT_LESS
+changes	B-ADR		10033428
 .	O
 
 -	O
@@ -20539,8 +20539,8 @@ know	O
 why	O
 .	O
 
-Could	B-ADR		10069830
-not	I-ADR		10069830
+Could	B-ADR		10041017
+not	I-ADR		10041017
 eat	B-ADR		10069830
 ,	O
 sleep	B-ADR		10041017
@@ -20895,7 +20895,7 @@ next	O
 years	O
 I	O
 developed	O
-inflammed	B-ADR		10064804
+inflammed	B-ADR		10006811
 ligaments	B-ADR		10064804
 and	O
 bursae	B-ADR		10006811
@@ -21311,8 +21311,8 @@ off	O
 I	O
 experienced	O
 severe	O
-pain	B-ADR		10028836
-in	I-ADR		10028836
+pain	B-ADR		10040617
+in	I-ADR		10040617
 my	O
 left	O
 shoulder	B-ADR		10040617
@@ -26262,7 +26262,7 @@ to	O
 pu	O
 .	O
 
-Severe	B-ADR		10048971
+Severe	B-ADR		10033371
 shoulder	B-ADR		10033371
 and	O
 upper	B-ADR		10048971
@@ -30471,7 +30471,7 @@ and	I-ADR		10028411
 joint	I-ADR		10028411
 pain	I-ADR		10028411
 ,	O
-swelling	B-ADR		10019121
+swelling	B-ADR		10042693
 of	O
 feet	B-ADR		10042693
 and	O
@@ -31789,8 +31789,8 @@ dosage	O
 ,	O
 came	O
 crippling	O
-pain	B-ADR		10028836
-in	I-ADR		10028836
+pain	B-ADR		10003993
+in	I-ADR		10003993
 my	O
 back	B-ADR		10003993
 ,	O
@@ -32436,8 +32436,8 @@ few	O
 blocks	O
 .	O
 
-Pain	B-ADR		10071701
-in	I-ADR		10071701
+Pain	B-ADR		10040617
+in	I-ADR		10040617
 lower	B-ADR		10024891
 back	I-ADR		10024891
 ,	O
@@ -33283,9 +33283,9 @@ so	O
 severe	O
 that	O
 it	O
-limits	B-ADR		10053204
-my	I-ADR		10053204
-ability	I-ADR		10053204
+limits	B-ADR		CONCEPT_LESS
+my	I-ADR		CONCEPT_LESS
+ability	I-ADR		CONCEPT_LESS
 to	B-ADR		10053204
 walk	I-ADR		10053204
 and	O
@@ -34012,8 +34012,8 @@ two	O
 years	O
 .	O
 
-Pain	B-ADR		10033430
-in	I-ADR		10033430
+Pain	B-ADR		10071701
+in	I-ADR		10071701
 shoulder	B-ADR		10040617
 and	O
 arms	B-ADR		10071701
@@ -34021,7 +34021,7 @@ and	O
 hands	B-ADR		10033430
 .	O
 
-Hands	B-ADR		10065702
+Hands	B-ADR		10049681
 are	O
 often	O
 numb	B-ADR		10049681
@@ -35077,8 +35077,8 @@ an	O
 abrupt	O
 and	O
 chronic	O
-pain	B-ADR		10033430
-in	I-ADR		10033430
+pain	B-ADR		10048973
+in	I-ADR		10048973
 my	B-ADR		10071701
 arms	I-ADR		10071701
 ,	O
@@ -35260,9 +35260,9 @@ eye	O
 ,	O
 hives	B-ADR		10020197
 ,	O
-severe	B-ADR		10071701
-pain	I-ADR		10071701
-in	I-ADR		10071701
+severe	B-ADR		10033371
+pain	I-ADR		10033371
+in	I-ADR		10033371
 left	B-ADR		10033371
 shoulder	I-ADR		10033371
 ,	I-ADR		10033371
@@ -36063,10 +36063,10 @@ years	O
 of	O
 use	O
 -	O
-SEVERE	B-ADR		10033432
-muscle	I-ADR		10033432
-pain	I-ADR		10033432
-in	I-ADR		10033432
+SEVERE	B-ADR		10033371
+muscle	I-ADR		10033371
+pain	I-ADR		10033371
+in	I-ADR		10033371
 sholder	B-ADR		10033371
 and	O
 hip	B-ADR		10033432
@@ -38406,8 +38406,8 @@ I	O
 am	O
 having	O
 horrible	O
-aching	B-ADR		10033452
-in	I-ADR		10033452
+aching	B-ADR		10023477
+in	I-ADR		10023477
 my	B-ADR		10033428
 fingers	I-ADR		10033428
 ,	O
@@ -39686,7 +39686,7 @@ Hip	B-ADR		10033432
 back	B-ADR		10003993
 and	O
 leg	B-ADR		10033473
-pain	B-ADR		10033432
+pain	B-ADR		10033473
 .	O
 
 Along	O
@@ -40581,8 +40581,8 @@ bad	O
 )	O
 .	O
 
-pain	B-ADR		10040617
-in	I-ADR		10040617
+pain	B-ADR		10071701
+in	I-ADR		10071701
 shoulder	B-ADR		10040617
 and	O
 arm	B-ADR		10071701
@@ -40770,7 +40770,7 @@ debilitating	O
 joint	B-ADR		10003239
 and	O
 muscle	B-ADR		10028411
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 .	O
 
 I	O
@@ -41379,8 +41379,8 @@ unable	O
 to	O
 leave	O
 ,	O
-loss	B-ADR		10019045
-of	I-ADR		10019045
+loss	B-ADR		10024419
+of	I-ADR		10024419
 sex	B-ADR		10024419
 drive	I-ADR		10024419
 ,	O
@@ -43333,7 +43333,7 @@ pain	I-ADR		10033371
 ,	O
 fatigue	B-ADR		10016256
 ,	O
-sore	B-ADR		10028411
+sore	B-ADR		10003239
 muscles	B-ADR		10028411
 and	O
 joints	B-ADR		10003239
@@ -43683,8 +43683,8 @@ diarria	B-ADR		10012735
 Have	O
 also	O
 had	O
-muscle	B-ADR		10024891
-pain	I-ADR		10024891
+muscle	B-ADR		10051587
+pain	I-ADR		10051587
 especially	O
 in	B-ADR		10051587
 the	I-ADR		10051587
@@ -43758,7 +43758,7 @@ pain	I-ADR		10003239
 back	B-ADR		10003993
 and	O
 shoulder	B-ADR		10040617
-pain	B-ADR		10040617
+pain	B-ADR		10003993
 ,	O
 arm	B-ADR		10071701
 pain	I-ADR		10071701
@@ -43771,8 +43771,8 @@ the	I-ADR		10035067
 hands	I-ADR		10035067
 .	O
 
-Edema	B-ADR		10002546
-of	I-ADR		10002546
+Edema	B-ADR		10058204
+of	I-ADR		10058204
 hands	B-ADR		10058204
 and	O
 ankles	B-ADR		10002546
@@ -43794,8 +43794,8 @@ joints	I-ADR		10003239
 .	O
 
 I	O
-could	B-ADR		10048334
-barely	I-ADR		10048334
+could	B-ADR		CONCEPT_LESS
+barely	I-ADR		CONCEPT_LESS
 get	B-ADR		10048334
 out	I-ADR		10048334
 of	I-ADR		10048334
@@ -44761,9 +44761,9 @@ of	O
 them	O
 .	O
 
-muscle	B-ADR		10047868
-weakness	I-ADR		10047868
-in	I-ADR		10047868
+muscle	B-ADR		10028350
+weakness	I-ADR		10028350
+in	I-ADR		10028350
 ankle	B-ADR		10047868
 ,	O
 plantar	B-ADR		10047868
@@ -46501,7 +46501,7 @@ Severe	B-ADR		10033371
 knee	I-ADR		10033371
 and	O
 back	B-ADR		10003993
-pain	B-ADR		10033371
+pain	B-ADR		10003993
 .	O
 
 Several	O
@@ -46871,8 +46871,8 @@ wrists	B-ADR		10042041
 ,	O
 and	O
 knees	B-ADR		10042042
-seized	B-ADR		10042041
-up	I-ADR		10042041
+seized	B-ADR		10042042
+up	I-ADR		10042042
 .	O
 
 I	O
@@ -48089,7 +48089,7 @@ Severe	B-ADR		10033371
 back	I-ADR		10033371
 and	O
 neck	B-ADR		10028836
-pains	B-ADR		10033371
+pains	B-ADR		10028836
 that	O
 led	O
 to	O
@@ -49209,7 +49209,7 @@ have	O
 arthritic	B-ADR		10031165
 knees	I-ADR		10031165
 ,	O
-hands	B-ADR		10049230
+hands	B-ADR		10049681
 that	O
 are	O
 numb	B-ADR		10049681
@@ -51169,10 +51169,10 @@ fine	O
 and	O
 I	O
 had	O
-severe	B-ADR		10065955
-arthritis	I-ADR		10065955
-symptoms	I-ADR		10065955
-in	I-ADR		10065955
+severe	B-ADR		10031165
+arthritis	I-ADR		10031165
+symptoms	I-ADR		10031165
+in	I-ADR		10031165
 knees	B-ADR		10031165
 and	O
 hip	B-ADR		10065955
@@ -51875,7 +51875,7 @@ gone	O
 back	B-ADR		10003993
 pain	I-ADR		10003993
 ,	O
-aching	B-ADR		10028411
+aching	B-ADR		10003239
 joints	B-ADR		10003239
 and	O
 muscles	B-ADR		10028411
@@ -52314,8 +52314,8 @@ medication	O
 Shoulder	B-ADR		10028411
 and	O
 neck	B-ADR		10028836
-muscle	B-ADR		10028836
-pain	I-ADR		10028836
+muscle	B-ADR		10028411
+pain	I-ADR		10028411
 ,	O
 tender	B-ADR		10048913
 joints	I-ADR		10048913
@@ -52529,8 +52529,8 @@ well	O
 
 still	O
 have	O
-pain	B-ADR		10033473
-in	I-ADR		10033473
+pain	B-ADR		10071701
+in	I-ADR		10071701
 arms	B-ADR		10071701
 and	O
 legs	B-ADR		10033473
@@ -52748,9 +52748,9 @@ combination	O
 EXTREME	O
 AND	O
 EXCRUCIATING	O
-MUSCLE	B-ADR		10028411
-PAIN	I-ADR		10028411
-IN	I-ADR		10028411
+MUSCLE	B-ADR		10028836
+PAIN	I-ADR		10028836
+IN	I-ADR		10028836
 SHOULDERS	B-ADR		10028411
 ,	O
 NECK	B-ADR		10028836
@@ -53423,8 +53423,8 @@ weakness	B-ADR		10003549
 /	O
 stiffness	B-ADR		10042045
 ,	O
-cramps	B-ADR		10016964
-in	I-ADR		10016964
+cramps	B-ADR		10011287
+in	I-ADR		10011287
 my	B-ADR		10016964
 feet	I-ADR		10016964
 and	O
@@ -53582,7 +53582,7 @@ test	O
 results	O
 w	O
 /	O
-elevated	B-ADR		10068559
+elevated	B-ADR		10037825
 CRP	B-ADR		10068559
 ,	O
 BUN	B-ADR		CONCEPT_LESS
@@ -53685,7 +53685,7 @@ heart	B-ADR		10019276
 kidney	B-ADR		10051051
 and	O
 muscle	B-ADR		10028641
-damage	B-ADR		10028641
+damage	B-ADR		10019276
 .	O
 
 75	O
@@ -53726,7 +53726,7 @@ periodic	O
 back	B-ADR		10003993
 and	O
 hip	B-ADR		10033432
-pain	B-ADR		10003993
+pain	B-ADR		10033432
 ,	O
 gradual	O
 loss	B-ADR		10052407
@@ -55366,8 +55366,8 @@ leg	B-ADR		10011301
 cramps	I-ADR		10011301
 .	O
 
-pain	B-ADR		10003239
-in	I-ADR		10003239
+pain	B-ADR		10033446
+in	I-ADR		10033446
 my	B-ADR		10033446
 left	I-ADR		10033446
 leg	I-ADR		10033446
@@ -56637,8 +56637,8 @@ nausea	B-ADR		10028813
 muscle	B-ADR		10028411
 aches	I-ADR		10028411
 ,	O
-loss	B-ADR		10024862
-of	I-ADR		10024862
+loss	B-ADR		CONCEPT_LESS
+of	I-ADR		CONCEPT_LESS
 energy	B-ADR		10024862
 &	O
 productivity	B-ADR		CONCEPT_LESS
@@ -57120,7 +57120,7 @@ neck	I-ADR		10033371
 /	O
 shoulder	B-ADR		10040617
 /	O
-pain	B-ADR		10040617
+pain	B-ADR		10033371
 ,	O
 achiness	B-ADR		10033371
 ,	O
@@ -58259,7 +58259,7 @@ Levels	O
 almost	O
 normal	O
 ;	O
-muscles	B-ADR		10028411
+muscles	B-ADR		10028330
 in	O
 entire	O
 body	O
@@ -58793,8 +58793,8 @@ the	O
 
 Sterted	O
 with	O
-swelling	B-ADR		10042697
-in	I-ADR		10042697
+swelling	B-ADR		10042715
+in	I-ADR		10042715
 one	B-ADR		10042715
 ankle	I-ADR		10042715
 then	O
@@ -58979,7 +58979,7 @@ Neck	B-ADR		10028836
 shoulder	B-ADR		10040617
 and	O
 elbow	B-ADR		10033424
-pain	B-ADR		10033424
+pain	B-ADR		10040617
 .	O
 
 Absentminded	B-ADR		10067170
@@ -61368,7 +61368,7 @@ knee	B-ADR		10023477
 leg	B-ADR		10033473
 /	O
 hip	B-ADR		10033432
-pain	B-ADR		10033432
+pain	B-ADR		10023477
 ,	O
 aching	B-ADR		10033371
 and	O
@@ -61812,8 +61812,8 @@ for	O
 5	O
 years	O
 :	O
-pain	B-ADR		10023477
-in	I-ADR		10023477
+pain	B-ADR		10040617
+in	I-ADR		10040617
 the	B-ADR		10023477
 knees	I-ADR		10023477
 and	I-ADR		10023477
@@ -61936,7 +61936,7 @@ in	I-ADR		10046273
 upper	I-ADR		10046273
 back	I-ADR		10046273
 ,	O
-head	B-ADR		10019211
+head	B-ADR		10019200
 pain	B-ADR		10019211
 and	O
 pressure	B-ADR		10019200
@@ -62193,7 +62193,7 @@ shoulders	O
 gradually	O
 became	O
 very	O
-painful	B-ADR		10028411
+painful	B-ADR		10003239
 .	O
 
 My	O
@@ -62445,9 +62445,9 @@ and	O
 joint	B-ADR		10003239
 pain	B-ADR		10028411
 ,	O
-Burning	B-ADR		10006785
-sensations	I-ADR		10006785
-in	I-ADR		10006785
+Burning	B-ADR		10006786
+sensations	I-ADR		10006786
+in	I-ADR		10006786
 neck	B-ADR		10006786
 shoulders	B-ADR		10006784
 and	O
@@ -64694,8 +64694,8 @@ do	O
 I	O
 admit	O
 cholesterol	O
-went	B-ADR		10028350
-down	I-ADR		10028350
+went	B-ADR		10041909
+down	I-ADR		10041909
 but	O
 so	O
 did	O
@@ -65827,7 +65827,7 @@ exercise	O
 DEPRESSION	B-ADR		10012378
 !	O
 !	O
-muscle	B-ADR		10028411
+muscle	B-ADR		10028346
 twitching	B-ADR		10028346
 and	O
 pain	B-ADR		10028411
@@ -68016,7 +68016,7 @@ on	O
 tightness	B-ADR		10070541
 and	O
 fatigue	B-ADR		10049565
-in	B-ADR		10070541
+in	B-ADR		10049565
 forearms	B-ADR		10049565
 and	O
 legs	B-ADR		10070541
@@ -68281,9 +68281,9 @@ cramping	B-ADR		10011287
 ,	O
 weakness	B-ADR		10003549
 ,	O
-painful	B-ADR		10033456
-inflamation	I-ADR		10033456
-of	I-ADR		10033456
+painful	B-ADR		10003239
+inflamation	I-ADR		10003239
+of	I-ADR		10003239
 joints	B-ADR		10003239
 /	O
 knuckles	B-ADR		10033456
@@ -71464,10 +71464,10 @@ But	O
 I	O
 too	O
 have	O
-joint	B-ADR		10023477
-pain	I-ADR		10023477
-in	I-ADR		10023477
-my	I-ADR		10023477
+joint	B-ADR		10003241
+pain	I-ADR		10003241
+in	I-ADR		10003241
+my	I-ADR		10003241
 knees	B-ADR		10023477
 ,	O
 hips	B-ADR		10033432
@@ -72467,8 +72467,8 @@ calf	B-ADR		10033371
 ,	O
 feet	B-ADR		10033371
 ,	O
-cramping	B-ADR		10011301
-in	I-ADR		10011301
+cramping	B-ADR		10016964
+in	I-ADR		10016964
 legs	B-ADR		10011301
 and	O
 feet	B-ADR		10016964
@@ -72941,8 +72941,8 @@ have	O
 soreness	B-ADR		10048973
 and	O
 weakness	B-ADR		10047868
-in	B-ADR		10048973
-thighs	I-ADR		10048973
+in	B-ADR		10047868
+thighs	I-ADR		10047868
 from	O
 walking	O
 short	O
@@ -73020,11 +73020,11 @@ my	O
 legs	B-ADR		10052409
 and	O
 arms	B-ADR		10029854
-started	B-ADR		10029854
+started	B-ADR		10052409
 going	B-ADR		10029850
 numb	I-ADR		10029850
 and	O
-tingling	B-ADR		10043881
+tingling	B-ADR		10052409
 .	O
 
 extreme	B-ADR		10003549
@@ -73111,9 +73111,9 @@ in	I-ADR		10011290
 lower	I-ADR		10011290
 legs	I-ADR		10011290
 ,	O
-sever	B-ADR		10042693
-swelling	I-ADR		10042693
-of	I-ADR		10042693
+sever	B-ADR		10002546
+swelling	I-ADR		10002546
+of	I-ADR		10002546
 feet	B-ADR		10042693
 ,	O
 hands	B-ADR		10019121
@@ -73306,9 +73306,9 @@ hand	I-ADR		10033386
 stiffness	B-ADR		10042042
 and	O
 pain	B-ADR		10023477
-in	B-ADR		10023477
-both	I-ADR		10023477
-knees	I-ADR		10023477
+in	B-ADR		10042042
+both	I-ADR		10042042
+knees	I-ADR		10042042
 ,	O
 pain	B-ADR		10046273
 in	I-ADR		10046273
@@ -73610,7 +73610,7 @@ upper	B-ADR		10046273
 back	I-ADR		10046273
 .	O
 
-Hair	B-ADR		CONCEPT_LESS
+Hair	B-ADR		10019045
 dryness	O
 ,	O
 breakage	B-ADR		CONCEPT_LESS
@@ -73635,7 +73635,7 @@ CoQ10	O
 supplements	O
 but	O
 the	O
-hair	B-ADR		10013779
+hair	B-ADR		10019045
 dryness	B-ADR		10013779
 ,	O
 breakage	B-ADR		CONCEPT_LESS
@@ -73986,15 +73986,15 @@ not	O
 
 Muscle	B-ADR		10051587
 and	O
-joint	B-ADR		10033424
-aches	B-ADR		10028411
-in	I-ADR		10028411
-arms	B-ADR		10003239
+joint	B-ADR		10003239
+aches	B-ADR		10051587
+in	I-ADR		10051587
+arms	B-ADR		10028411
 ,	O
-elbows	B-ADR		10028411
+elbows	B-ADR		10033424
 ,	O
 and	O
-calves	B-ADR		10003239
+calves	B-ADR		10051587
 .	O
 
 Felt	O
@@ -74082,13 +74082,13 @@ after	O
 15	O
 months	O
 the	O
-muscle	B-ADR		10028411
-pain	I-ADR		10028411
+muscle	B-ADR		10033422
+pain	I-ADR		10033422
 started	O
 -	O
 particularly	O
-in	B-ADR		10028836
-the	I-ADR		10028836
+in	B-ADR		10033422
+the	I-ADR		10033422
 glutes	B-ADR		10028411
 ,	O
 calves	B-ADR		10033422
@@ -74222,7 +74222,7 @@ symptoms	I-ADR		CONCEPT_LESS
 Numbness	B-ADR		10029833
 and	O
 tingling	B-ADR		10035067
-on	B-ADR		10035067
+on	B-ADR		10029854
 left	B-ADR		10029833
 side	I-ADR		10029833
 of	I-ADR		10029833
@@ -74704,7 +74704,7 @@ in	O
 the	O
 hospital	O
 ,	O
-yellow	B-ADR		10048245
+yellow	B-ADR		10057488
 skin	B-ADR		10048245
 ,	O
 eyes	B-ADR		10057488
@@ -75494,8 +75494,8 @@ the	O
 same	O
 .	O
 
-Pain	B-ADR		10033432
-in	I-ADR		10033432
+Pain	B-ADR		10024891
+in	I-ADR		10024891
 hip	B-ADR		10033432
 ,	O
 lower	B-ADR		10024891
@@ -75669,9 +75669,9 @@ unable	O
 to	O
 exercise	O
 ,	O
-Weak	B-ADR		10047868
-&	I-ADR		10047868
-wobbley	I-ADR		10047868
+Weak	B-ADR		10003549
+&	I-ADR		10003549
+wobbley	I-ADR		10003549
 ankles	B-ADR		10047868
 ,	O
 knees	B-ADR		10047868
@@ -76393,8 +76393,8 @@ and	O
 day	O
 1	O
 had	O
-very	B-ADR		10033371
-severe	I-ADR		10033371
+very	B-ADR		10028294
+severe	I-ADR		10028294
 cramps	B-ADR		10028294
 and	O
 pains	B-ADR		10033371
@@ -76468,7 +76468,7 @@ shoulder	B-ADR		10040617
 arm	B-ADR		10071701
 and	O
 hand	B-ADR		10033430
-pain	B-ADR		10033430
+pain	B-ADR		10071701
 -	O
 am	O
 having	O
@@ -76667,7 +76667,7 @@ hip	B-ADR		10033432
 leg	B-ADR		10033473
 /	O
 foot	B-ADR		10016974
-pain	B-ADR		10033473
+pain	B-ADR		10033432
 and	O
 numbness	B-ADR		10029829
 .	O
@@ -76851,7 +76851,7 @@ ANKLE	B-ADR		10033379
 CALF	B-ADR		10033422
 ,	O
 THIGH	B-ADR		10048973
-PAIN	B-ADR		10048973
+PAIN	B-ADR		10033379
 .	O
 
 SOMETIMES	O
@@ -77364,7 +77364,7 @@ and	O
 stiffness	B-ADR		10042043
 from	O
 the	O
-neck	B-ADR		10028836
+neck	B-ADR		10042043
 and	O
 pain	B-ADR		10003993
 in	I-ADR		10003993
@@ -79254,11 +79254,11 @@ pain	I-ADR		10003993
 .	O
 
 I	O
-felt	B-ADR		10040000
+felt	B-ADR		CONCEPT_LESS
 always	O
-like	B-ADR		10040000
-I	I-ADR		10040000
-had	I-ADR		10040000
+like	B-ADR		CONCEPT_LESS
+I	I-ADR		CONCEPT_LESS
+had	I-ADR		CONCEPT_LESS
 a	B-ADR		CONCEPT_LESS
 veil	I-ADR		CONCEPT_LESS
 over	I-ADR		CONCEPT_LESS
@@ -79364,9 +79364,9 @@ for	O
 months	O
 I	O
 had	O
-terrible	B-ADR		10023477
-pains	I-ADR		10023477
-in	I-ADR		10023477
+terrible	B-ADR		10033452
+pains	I-ADR		10033452
+in	I-ADR		10033452
 knee	B-ADR		10023477
 ,	O
 ankle	B-ADR		10033379
@@ -79375,14 +79375,14 @@ big	B-ADR		10033452
 toe	I-ADR		10033452
 .	O
 
-Couldn	B-ADR		10047810
-'	I-ADR		10047810
-t	I-ADR		10047810
+Couldn	B-ADR		10012804
+'	I-ADR		10012804
+t	I-ADR		10012804
 walk	B-ADR		10047810
 or	O
 even	O
 sleep	B-ADR		10012804
-comfortably	B-ADR		10012804
+comfortably	B-ADR		10047810
 .	O
 
 I	O
@@ -79763,17 +79763,17 @@ effects	O
 .	O
 
 Mostly	O
-Tingling	B-ADR		10035067
+Tingling	B-ADR		10052409
 /	O
 burning	B-ADR		10033386
 in	B-ADR		10052409
-arms	B-ADR		10033386
+arms	B-ADR		10035067
 and	O
-legs	B-ADR		10033386
+legs	B-ADR		10052409
 and	O
-back	B-ADR		10033386
-of	I-ADR		10033386
-neck	I-ADR		10033386
+back	B-ADR		10035067
+of	I-ADR		10035067
+neck	I-ADR		10035067
 ,	O
 Some	O
 lightheadedness	B-ADR		10024492
@@ -81432,9 +81432,9 @@ my	O
 legs	B-ADR		10033473
 and	O
 ankles	B-ADR		10033379
-ache	B-ADR		10033379
-so	I-ADR		10033379
-bad	I-ADR		10033379
+ache	B-ADR		10033473
+so	I-ADR		10033473
+bad	I-ADR		10033473
 ,	O
 have	O
 been	O
@@ -81800,9 +81800,9 @@ symptoms	O
 
 Recently	O
 developed	O
-inflammation	B-ADR		10028653
-of	I-ADR		10028653
-my	I-ADR		10028653
+inflammation	B-ADR		10003246
+of	I-ADR		10003246
+my	I-ADR		10003246
 foot	B-ADR		10028653
 muscles	I-ADR		10028653
 and	O
@@ -82456,7 +82456,7 @@ dreams	I-ADR		10000125
 muscle	B-ADR		10028411
 and	O
 joint	B-ADR		10003239
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 ,	O
 tiredness	B-ADR		10043890
 .	O
@@ -82810,7 +82810,7 @@ obviously	O
 Muscle	B-ADR		10028411
 &	O
 joint	B-ADR		10003239
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 ;	O
 severe	B-ADR		CONCEPT_LESS
 vision	I-ADR		CONCEPT_LESS
@@ -83027,7 +83027,7 @@ experience	O
 speech	B-ADR		10013952
 and	O
 swallowing	B-ADR		10042647
-problems	B-ADR		10013952
+problems	B-ADR		10042647
 which	O
 got	O
 worse	O
@@ -83053,8 +83053,8 @@ speech	B-ADR		10013952
 and	O
 swallowing	B-ADR		10042647
 were	O
-so	B-ADR		10013952
-bad	I-ADR		10013952
+so	B-ADR		10042647
+bad	I-ADR		10042647
 that	O
 I	O
 stopped	O
@@ -83138,7 +83138,7 @@ cause	O
 speech	B-ADR		10013952
 and	O
 swallowing	B-ADR		10042647
-problems	B-ADR		10042647
+problems	B-ADR		10013952
 ,	O
 I	O
 would	O
@@ -83431,7 +83431,7 @@ the	O
 muscle	B-ADR		10028411
 and	O
 joint	B-ADR		10003239
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 she	O
 insisted	O
 that	O
@@ -83550,10 +83550,10 @@ pain	I-ADR		10033371
 ,	O
 and	O
 specifically	O
-terrible	B-ADR		10033379
-pain	I-ADR		10033379
-in	I-ADR		10033379
-my	I-ADR		10033379
+terrible	B-ADR		10016974
+pain	I-ADR		10016974
+in	I-ADR		10016974
+my	I-ADR		10016974
 feet	B-ADR		10016974
 and	O
 ankles	B-ADR		10033379
@@ -83658,7 +83658,7 @@ to	O
 numb	B-ADR		10049800
 toes	I-ADR		10049800
 and	O
-sore	B-ADR		10033379
+sore	B-ADR		10033473
 ankles	B-ADR		10033379
 and	O
 legs	B-ADR		10033473
@@ -83752,8 +83752,8 @@ joint	B-ADR		10033432
 pain	B-ADR		10003239
 ,	O
 mostly	O
-in	B-ADR		10033422
-legs	B-ADR		10051587
+in	B-ADR		10028411
+legs	B-ADR		10003239
 ,	O
 thighs	B-ADR		10028411
 /	O
@@ -84378,7 +84378,7 @@ musclesoreness	B-ADR		10028411
 .	O
 
 feet	B-ADR		10016974
-pains	B-ADR		10033432
+pains	B-ADR		10028836
 ,	O
 hips	B-ADR		10033432
 neck	B-ADR		10028836
@@ -84394,7 +84394,7 @@ head	B-ADR		10019211
 chest	B-ADR		10008479
 ,	O
 ribs	B-ADR		10048722
-hurt	B-ADR		10033452
+hurt	B-ADR		10048722
 .	O
 
 rashes	B-ADR		10037844
@@ -84455,7 +84455,7 @@ musclesoreness	B-ADR		10028411
 .	O
 
 feet	B-ADR		10016974
-pains	B-ADR		10033432
+pains	B-ADR		10028836
 ,	O
 hips	B-ADR		10033432
 neck	B-ADR		10028836
@@ -84471,7 +84471,7 @@ head	B-ADR		10019211
 chest	B-ADR		10008479
 ,	O
 ribs	B-ADR		10048722
-hurt	B-ADR		10033452
+hurt	B-ADR		10048722
 .	O
 
 rashes	B-ADR		10037844
@@ -84721,12 +84721,12 @@ cramps	B-ADR		10028294
 !	O
 .	O
 
-Very	B-ADR		10024891
-painful	I-ADR		10024891
-muscle	I-ADR		10024891
-aches	I-ADR		10024891
+Very	B-ADR		10051587
+painful	I-ADR		10051587
+muscle	I-ADR		10051587
+aches	I-ADR		10051587
 especially	O
-in	B-ADR		10051587
+in	B-ADR		10024891
 calves	B-ADR		10051587
 and	O
 lower	B-ADR		10024891
@@ -84770,9 +84770,9 @@ this	O
 drug	O
 .	O
 
-muscle	B-ADR		10028411
-aches	I-ADR		10028411
-in	I-ADR		10028411
+muscle	B-ADR		10051587
+aches	I-ADR		10051587
+in	I-ADR		10051587
 calves	B-ADR		10051587
 and	O
 thighs	B-ADR		10028411
@@ -87993,7 +87993,7 @@ after	O
 2	O
 years	O
 my	O
-fingertips	B-ADR		10042694
+fingertips	B-ADR		10013786
 got	B-ADR		10042694
 puffy	I-ADR		10042694
 and	O
@@ -88752,8 +88752,8 @@ normal	O
 wrist	B-ADR		10048692
 and	O
 arm	B-ADR		10003239
-joints	B-ADR		10048692
-sore	I-ADR		10048692
+joints	B-ADR		10003239
+sore	I-ADR		10003239
 ,	O
 red	B-ADR		10037844
 dots	I-ADR		10037844
@@ -89350,9 +89350,9 @@ extreme	B-ADR		10049565
 muscle	I-ADR		10049565
 fatigue	I-ADR		10049565
 and	O
-pain	B-ADR		10048973
-in	I-ADR		10048973
-my	I-ADR		10048973
+pain	B-ADR		10033422
+in	I-ADR		10033422
+my	I-ADR		10033422
 thighs	B-ADR		10048973
 ,	O
 calves	B-ADR		10033422
@@ -89784,7 +89784,7 @@ pain	O
 -	O
 actually	O
 an	O
-ache	B-ADR		10028836
+ache	B-ADR		10003993
 ,	O
 lack	B-ADR		10003028
 of	I-ADR		10003028
@@ -89844,10 +89844,10 @@ pills	O
 -	O
 .	O
 
-Very	B-ADR		10033430
-severe	I-ADR		10033430
-pain	I-ADR		10033430
-in	I-ADR		10033430
+Very	B-ADR		10071701
+severe	I-ADR		10071701
+pain	I-ADR		10071701
+in	I-ADR		10071701
 arms	B-ADR		10071701
 ,	O
 knees	B-ADR		10023477
@@ -91021,9 +91021,9 @@ daily	O
 
 depression	B-ADR		10012378
 ,	O
-muscle	B-ADR		10016974
-pain	I-ADR		10016974
-in	I-ADR		10016974
+muscle	B-ADR		10028411
+pain	I-ADR		10028411
+in	I-ADR		10028411
 shoulders	B-ADR		10028411
 ,	O
 hips	B-ADR		10033432
@@ -92035,8 +92035,8 @@ effects	O
 He	O
 suffered	O
 terrible	O
-pains	B-ADR		10033430
-in	I-ADR		10033430
+pains	B-ADR		10033473
+in	I-ADR		10033473
 hips	B-ADR		10033432
 ,	O
 legs	B-ADR		10033473
@@ -92277,8 +92277,8 @@ no	B-ADR		10023614
 motivation	I-ADR		10023614
 ,	O
 and	O
-pain	B-ADR		10028836
-in	I-ADR		10028836
+pain	B-ADR		10033456
+in	I-ADR		10033456
 knuckles	B-ADR		10033456
 ,	O
 neck	B-ADR		10028836
@@ -93082,7 +93082,7 @@ the	O
 joint	B-ADR		10003239
 and	O
 muscle	B-ADR		10028411
-pain	B-ADR		10028411
+pain	B-ADR		10003239
 already	O
 and	O
 was	O
@@ -93245,8 +93245,8 @@ had	O
 increasing	O
 non	O
 stop	O
-Pain	B-ADR		10028836
-in	I-ADR		10028836
+Pain	B-ADR		10003993
+in	I-ADR		10003993
 neck	B-ADR		10028836
 and	O
 back	B-ADR		10003993
@@ -93640,7 +93640,7 @@ No	O
 muscle	B-ADR		10028641
 or	O
 joint	B-ADR		10003285
-problems	B-ADR		10028641
+problems	B-ADR		10003285
 through	O
 1	O
 year	O
@@ -93985,8 +93985,8 @@ for	O
 it	O
 .	O
 
-aching	B-ADR		10040618
-joints	I-ADR		10040618
+aching	B-ADR		10048692
+joints	I-ADR		10048692
 :	O
 wrists	B-ADR		10048692
 ,	O
@@ -94215,10 +94215,10 @@ to	O
 expect	O
 .	O
 
-Slight	B-ADR		10028411
-muscle	I-ADR		10028411
-soreness	I-ADR		10028411
-in	I-ADR		10028411
+Slight	B-ADR		10051587
+muscle	I-ADR		10051587
+soreness	I-ADR		10051587
+in	I-ADR		10051587
 arms	B-ADR		10028411
 and	O
 legs	B-ADR		10051587
@@ -95659,11 +95659,11 @@ could	O
 do	O
 .	O
 
-aches	B-ADR		10040617
-and	I-ADR		10040617
-pain	I-ADR		10040617
-in	I-ADR		10040617
-both	I-ADR		10040617
+aches	B-ADR		10071701
+and	I-ADR		10071701
+pain	I-ADR		10071701
+in	I-ADR		10071701
+both	I-ADR		10071701
 arms	B-ADR		10071701
 and	O
 shoulders	B-ADR		10040617
@@ -95829,7 +95829,7 @@ hip	B-ADR		10033432
 knee	B-ADR		10023477
 /	O
 ankle	B-ADR		10033379
-pain	B-ADR		10023477
+pain	B-ADR		10033379
 ,	O
 and	O
 back	B-ADR		10003993
@@ -96437,7 +96437,7 @@ and	O
 calf	B-ADR		10011294
 /	O
 toe	B-ADR		10011301
-cramps	B-ADR		10011294
+cramps	B-ADR		10011301
 -	O
 also	O
 the	O
@@ -96632,10 +96632,10 @@ i	O
 started	O
 to	O
 get	O
-very	B-ADR		10033447
-bad	I-ADR		10033447
-pains	I-ADR		10033447
-in	I-ADR		10033447
+very	B-ADR		10033430
+bad	I-ADR		10033430
+pains	I-ADR		10033430
+in	I-ADR		10033430
 hands	B-ADR		10033430
 ,	O
 arms	B-ADR		10033447
@@ -96925,7 +96925,7 @@ longer	O
 Muscle	B-ADR		10028411
 and	O
 joint	B-ADR		10003239
-pain	B-ADR		10028411
+pain	B-ADR		10003239
 developed	O
 after	O
 approx	O
@@ -98403,9 +98403,9 @@ have	O
 pain	B-ADR		10033428
 and	O
 tingling	B-ADR		10035067
-in	B-ADR		10035067
-my	I-ADR		10035067
-fingers	I-ADR		10035067
+in	B-ADR		10033428
+my	I-ADR		10033428
+fingers	I-ADR		10033428
 as	O
 well	O
 as	O
@@ -98907,8 +98907,8 @@ of	I-ADR		10016974
 my	I-ADR		10016974
 foot	I-ADR		10016974
 is	I-ADR		10016974
-extremely	B-ADR		10033371
-tender	I-ADR		10033371
+extremely	B-ADR		10016974
+tender	I-ADR		10016974
 as	O
 are	O
 my	O
@@ -99677,7 +99677,7 @@ elbow	I-ADR		10033371
 arm	B-ADR		10071701
 and	O
 shoulder	B-ADR		10040617
-pain	B-ADR		10033371
+pain	B-ADR		10040617
 .	O
 
 It	O
@@ -99728,9 +99728,9 @@ my	O
 family	O
 as	O
 the	O
-pain	B-ADR		10071701
-in	I-ADR		10071701
-my	I-ADR		10071701
+pain	B-ADR		10040617
+in	I-ADR		10040617
+my	I-ADR		10040617
 arms	B-ADR		10071701
 and	O
 shoulder	B-ADR		10040617
@@ -100137,13 +100137,13 @@ advice	O
 !	O
 .	O
 
-Aching	B-ADR		10033473
+Aching	B-ADR		10040618
 weakness	B-ADR		10028350
 in	B-ADR		10033473
 legs	B-ADR		10033473
 back	B-ADR		10003993
 and	O
-shoulders	B-ADR		10065895
+shoulders	B-ADR		10040618
 .	O
 
 Side	O
@@ -100171,7 +100171,7 @@ will	O
 .	O
 
 Body	B-ADR		10018074
-aches	B-ADR		10018074
+aches	B-ADR		10008479
 (	O
 knees	B-ADR		10023477
 ,	O
@@ -102170,11 +102170,11 @@ arms	B-ADR		CONCEPT_LESS
 ,	O
 hands	B-ADR		10065702
 ,	I-ADR		10065702
-have	B-ADR		CONCEPT_LESS
-little	I-ADR		CONCEPT_LESS
-or	I-ADR		CONCEPT_LESS
-no	I-ADR		CONCEPT_LESS
-grip	I-ADR		CONCEPT_LESS
+have	B-ADR		10065702
+little	I-ADR		10065702
+or	I-ADR		10065702
+no	I-ADR		10065702
+grip	I-ADR		10065702
 ,	O
 I	O
 am	O
@@ -103063,7 +103063,7 @@ effects	O
 .	O
 
 My	O
-fingers	B-ADR		10033428
+fingers	B-ADR		10042694
 swelled	B-ADR		10042694
 up	I-ADR		10042694
 and	O
@@ -103313,8 +103313,8 @@ from	O
 regular	O
 dioreaha	B-ADR		10012735
 and	O
-muscle	B-ADR		10003993
-pain	I-ADR		10003993
+muscle	B-ADR		10028411
+pain	I-ADR		10028411
 in	B-ADR		10003993
 back	I-ADR		10003993
 and	O
@@ -103506,8 +103506,8 @@ a	O
 day	O
 .	O
 
-Legs	B-ADR		10049565
-feel	I-ADR		10049565
+Legs	B-ADR		10011301
+feel	I-ADR		10011301
 tired	B-ADR		10049565
 and	O
 swollen	B-ADR		10011301
@@ -103690,7 +103690,7 @@ psychological	O
 It	O
 '	O
 s	O
-destroyed	B-ADR		10024854
+destroyed	B-ADR		CONCEPT_LESS
 my	B-ADR		10024854
 self	I-ADR		10024854
 -	I-ADR		10024854
@@ -104683,11 +104683,11 @@ vertigo	B-ADR		10047340
 ,	O
 tingling	B-ADR		10035067
 and	O
-numbness	B-ADR		10049681
+numbness	B-ADR		10029833
 (	O
 hands	B-ADR		10035067
 ,	O
-legs	B-ADR		10029850
+legs	B-ADR		10035067
 ,	O
 face	B-ADR		10035067
 )	O
@@ -105209,19 +105209,19 @@ knees	B-ADR		10033371
 Pain	B-ADR		10033430
 and	O
 cramping	B-ADR		10011290
-in	B-ADR		10011290
-my	I-ADR		10011290
+in	B-ADR		10011287
+my	I-ADR		10011287
 hands	B-ADR		10033430
 and	O
 lower	B-ADR		10011290
 legs	I-ADR		10011290
 .	O
 
-Numbness	B-ADR		10049799
-in	I-ADR		10049799
-all	I-ADR		10049799
-of	I-ADR		10049799
-my	I-ADR		10049799
+Numbness	B-ADR		10029845
+in	I-ADR		10029845
+all	I-ADR		10029845
+of	I-ADR		10029845
+my	I-ADR		10029845
 finger	B-ADR		10029845
 tips	I-ADR		10029845
 and	O
@@ -106591,12 +106591,12 @@ anything	O
 else	O
 .	O
 
-Joint	B-ADR		10023230
+Joint	B-ADR		10003239
 and	O
 Muscle	B-ADR		10028330
-Pain	B-ADR		10028411
+Pain	B-ADR		10003239
 /	O
-Stiffness	B-ADR		10023230
+Stiffness	B-ADR		10028330
 .	O
 
 I	O
@@ -106879,16 +106879,16 @@ nonuse	O
 I	O
 still	O
 have	O
-stiffness	B-ADR		10049770
+stiffness	B-ADR		10024509
 ,	O
 weakness	B-ADR		10047868
 &	O
 pain	B-ADR		10033432
-in	B-ADR		10033432
-both	B-ADR		10024509
-legs	I-ADR		10024509
+in	B-ADR		10047868
+both	B-ADR		10047868
+legs	I-ADR		10047868
 /	O
-hips	B-ADR		10033432
+hips	B-ADR		10047868
 ,	O
 especially	O
 right	O
@@ -107002,7 +107002,7 @@ arm	B-ADR		10047868
 and	O
 total	B-ADR		10028350
 muscel	I-ADR		10028350
-weakness	B-ADR		10047868
+weakness	B-ADR		10028350
 ,	O
 could	B-ADR		10049278
 not	I-ADR		10049278
@@ -107597,7 +107597,7 @@ satisfied	O
 Achilles	B-ADR		10000441
 peritendonitis	I-ADR		10000441
 and	O
-sore	B-ADR		10033379
+sore	B-ADR		10023477
 ankles	B-ADR		10033379
 ,	O
 knees	B-ADR		10023477
@@ -108840,10 +108840,10 @@ have	O
 burning	B-ADR		10049854
 ,	O
 numb	B-ADR		10049799
-feet	B-ADR		10049799
-in	I-ADR		10049799
-toe	I-ADR		10049799
-area	I-ADR		10049799
+feet	B-ADR		10049854
+in	I-ADR		10049854
+toe	I-ADR		10049854
+area	I-ADR		10049854
 -	O
 both	O
 feet	O
@@ -110375,7 +110375,7 @@ legs	I-ADR		10047868
 muscle	B-ADR		10028411
 and	O
 back	B-ADR		10003993
-soreness	B-ADR		10003993
+soreness	B-ADR		10028411
 ,	O
 ears	B-ADR		10039183
 ringing	I-ADR		10039183
@@ -113923,8 +113923,8 @@ out	I-ADR		CONCEPT_LESS
 of	I-ADR		CONCEPT_LESS
 bed	I-ADR		CONCEPT_LESS
 ,	O
-loss	B-ADR		10001949
-of	I-ADR		10001949
+loss	B-ADR		10028350
+of	I-ADR		10028350
 strength	B-ADR		10028350
 ,	O
 memory	B-ADR		10001949
@@ -114421,7 +114421,7 @@ neck	I-ADR		10033371
 shoulder	B-ADR		10040617
 ,	O
 back	B-ADR		10003993
-pain	B-ADR		10033371
+pain	B-ADR		10040617
 .	O
 
 leg	B-ADR		10033473
@@ -114479,7 +114479,7 @@ Hip	B-ADR		10033432
 leg	B-ADR		10033473
 ,	O
 shoulder	B-ADR		10040617
-pain	B-ADR		10040617
+pain	B-ADR		10033473
 .	O
 
 Developed	O
@@ -114819,7 +114819,7 @@ neck	B-ADR		10028836
 ,	O
 and	O
 shoulder	B-ADR		10040617
-pain	B-ADR		10028836
+pain	B-ADR		10040617
 .	O
 
 .	O
@@ -114876,8 +114876,8 @@ triglycerides	O
 Muscle	B-ADR		10028411
 aches	I-ADR		10028411
 and	O
-weakness	B-ADR		10028350
-in	I-ADR		10028350
+weakness	B-ADR		10065895
+in	I-ADR		10065895
 neck	B-ADR		10028350
 ,	O
 arms	B-ADR		10047868
@@ -115144,7 +115144,7 @@ times	O
 
 Started	O
 with	O
-muscle	B-ADR		10028411
+muscle	B-ADR		10028350
 pain	B-ADR		10028411
 and	O
 weakness	B-ADR		10028350
@@ -115901,11 +115901,11 @@ tight	I-ADR		10070541
 
 Now	O
 the	O
-pain	B-ADR		10033421
-has	I-ADR		10033421
-gone	I-ADR		10033421
-into	I-ADR		10033421
-my	I-ADR		10033421
+pain	B-ADR		10040617
+has	I-ADR		10040617
+gone	I-ADR		10040617
+into	I-ADR		10040617
+my	I-ADR		10040617
 shoulder	B-ADR		10040617
 and	O
 upper	B-ADR		10033421
@@ -116146,9 +116146,9 @@ failure	I-ADR		10038435
 difficulty	B-ADR		10042645
 swallowing	I-ADR		10042645
 ,	O
-persistent	B-ADR		10023477
-pain	I-ADR		10023477
-in	I-ADR		10023477
+persistent	B-ADR		10033422
+pain	I-ADR		10033422
+in	I-ADR		10033422
 calf	B-ADR		10033422
 and	O
 knee	B-ADR		10023477
@@ -116363,9 +116363,9 @@ pains	I-ADR		10033371
 horrible	B-ADR		10016256
 fatigue	I-ADR		10016256
 ,	O
-tingling	B-ADR		10035067
-in	I-ADR		10035067
-my	I-ADR		10035067
+tingling	B-ADR		10052409
+in	I-ADR		10052409
+my	I-ADR		10052409
 arms	B-ADR		10035067
 ,	O
 legs	B-ADR		10052409
@@ -116592,9 +116592,9 @@ thigh	I-ADR		10029850
 pain	B-ADR		10016974
 and	O
 numbness	B-ADR		10049800
-in	B-ADR		10049800
-left	I-ADR		10049800
-foot	I-ADR		10049800
+in	B-ADR		10016974
+left	I-ADR		10016974
+foot	I-ADR		10016974
 ,	O
 left	B-ADR		CONCEPT_LESS
 foot	I-ADR		CONCEPT_LESS
@@ -116899,10 +116899,10 @@ acute	B-ADR		10028350
 weakness	I-ADR		10028350
 in	I-ADR		10028350
 the	I-ADR		10028350
-muscles	B-ADR		10011973
-of	I-ADR		10011973
-whole	I-ADR		10011973
-body	I-ADR		10011973
+muscles	B-ADR		10028350
+of	I-ADR		10028350
+whole	I-ADR		10028350
+body	I-ADR		10028350
 and	O
 their	O
 dilution	B-ADR		10011973
@@ -117035,7 +117035,7 @@ the	O
 diseases	O
 .	O
 
-Swollen	B-ADR		10042715
+Swollen	B-ADR		10042693
 ,	O
 burning	B-ADR		10049854
 feet	B-ADR		10042693
@@ -117179,8 +117179,8 @@ Arms	B-ADR		10040000
 feel	I-ADR		10040000
 HEAVY	I-ADR		10040000
 and	O
-hands	B-ADR		10049230
-are	I-ADR		10049230
+hands	B-ADR		10049681
+are	I-ADR		10049681
 tingling	B-ADR		10049230
 and	O
 somewhat	B-ADR		10049681
@@ -117595,9 +117595,9 @@ this	O
 tremors	B-ADR		10044565
 and	O
 tingles	B-ADR		10033775
-although	B-ADR		10044565
-the	I-ADR		10044565
-body	I-ADR		10044565
+although	B-ADR		10033775
+the	I-ADR		10033775
+body	I-ADR		10033775
 .	O
 
 Deep	B-ADR		10012378
@@ -117895,7 +117895,7 @@ eyes	I-ADR		10013778
 .	O
 
 My	O
-eyes	B-ADR		10013778
+eyes	B-ADR		10049796
 are	B-ADR		10013778
 so	I-ADR		10013778
 dry	I-ADR		10013778
@@ -118799,7 +118799,7 @@ severe	B-ADR		10033371
 shoulder	I-ADR		10033371
 and	O
 knee	B-ADR		10023477
-pain	B-ADR		10023477
+pain	B-ADR		10033371
 ,	O
 insomnia	B-ADR		10022437
 ,	O
@@ -119495,7 +119495,7 @@ got	O
 foot	B-ADR		10016964
 /	O
 leg	B-ADR		10011301
-cramps	B-ADR		10011301
+cramps	B-ADR		10016964
 .	O
 
 I	O
@@ -120058,10 +120058,10 @@ is	O
 fine	O
 .	O
 
-Joint	B-ADR		10023477
-pain	I-ADR		10023477
-in	I-ADR		10023477
-the	I-ADR		10023477
+Joint	B-ADR		10033432
+pain	I-ADR		10033432
+in	I-ADR		10033432
+the	I-ADR		10033432
 knees	B-ADR		10023477
 and	O
 hips	B-ADR		10033432
@@ -120296,8 +120296,8 @@ pains	I-ADR		10033473
 balance	B-ADR		10027175
 off	I-ADR		10027175
 ,	O
-back	B-ADR		10046273
-pain	I-ADR		10046273
+back	B-ADR		10024891
+pain	I-ADR		10024891
 (	O
 Lower	B-ADR		10024891
 and	O
@@ -120479,8 +120479,8 @@ mg	O
 
 and	O
 experiencing	O
-pain	B-ADR		10033473
-in	I-ADR		10033473
+pain	B-ADR		10016974
+in	I-ADR		10016974
 feet	B-ADR		10016974
 and	O
 legs	B-ADR		10033473
@@ -121882,10 +121882,10 @@ THIS	O
 !	O
 .	O
 
-Swollen	B-ADR		10042689
+Swollen	B-ADR		10042697
 and	O
-stiff	B-ADR		10042041
-knees	B-ADR		10042042
+stiff	B-ADR		10042042
+knees	B-ADR		10042697
 and	O
 elbows	B-ADR		10042041
 ,	O
@@ -121920,13 +121920,13 @@ years	O
 my	O
 knees	B-ADR		10023477
 and	O
-elbows	B-ADR		10033424
+elbows	B-ADR		10042041
 were	O
 getting	O
 increasingly	O
 stiff	B-ADR		10042042
 and	O
-sore	B-ADR		10023477
+sore	B-ADR		10033424
 .	O
 
 I	O
@@ -122237,9 +122237,9 @@ headaches	B-ADR		10019211
 extreme	B-ADR		10003549
 fatigued	I-ADR		10003549
 ,	O
-tingling	B-ADR		10035067
-in	I-ADR		10035067
-my	I-ADR		10035067
+tingling	B-ADR		10052409
+in	I-ADR		10052409
+my	I-ADR		10052409
 arms	B-ADR		10035067
 and	O
 legs	B-ADR		10052409
@@ -123075,9 +123075,9 @@ pain	I-ADR		10033371
 and	O
 weakness	B-ADR		10003549
 ,	O
-muscle	B-ADR		10011292
-cramps	I-ADR		10011292
-in	I-ADR		10011292
+muscle	B-ADR		10016964
+cramps	I-ADR		10016964
+in	I-ADR		10016964
 legs	B-ADR		10011301
 ,	O
 feet	B-ADR		10016964
@@ -123150,14 +123150,14 @@ having	O
 severe	B-ADR		10033371
 pain	I-ADR		10033371
 and	O
-weakness	B-ADR		10028350
-in	I-ADR		10028350
+weakness	B-ADR		10047868
+in	I-ADR		10047868
 my	O
 muscles	B-ADR		10033371
 ,	O
 especially	O
 the	O
-legs	B-ADR		10047868
+legs	B-ADR		10033371
 .	O
 
 I	O
@@ -123678,12 +123678,12 @@ and	O
 the	O
 tingling	B-ADR		10035067
 and	O
-numbness	B-ADR		10049800
+numbness	B-ADR		10029850
 in	B-ADR		10049800
 my	I-ADR		10049800
 feet	B-ADR		10035067
 and	O
-shins	B-ADR		10029850
+shins	B-ADR		10035067
 escalated	O
 .	O
 
@@ -123734,11 +123734,11 @@ night	I-ADR		10022437
 because	O
 of	O
 the	O
-sensations	B-ADR		10052409
-of	I-ADR		10052409
-tingling	I-ADR		10052409
-in	I-ADR		10052409
-my	I-ADR		10052409
+sensations	B-ADR		10052407
+of	I-ADR		10052407
+tingling	I-ADR		10052407
+in	I-ADR		10052407
+my	I-ADR		10052407
 legs	B-ADR		10052409
 and	O
 feet	B-ADR		10052407
@@ -124013,8 +124013,8 @@ cough	B-ADR		10011224
 heavily	I-ADR		10011224
 .	O
 
-Pain	B-ADR		10033379
-in	I-ADR		10033379
+Pain	B-ADR		10040617
+in	I-ADR		10040617
 joints	B-ADR		10003239
 and	O
 muscles	B-ADR		10028411
@@ -129592,8 +129592,8 @@ sweating	B-ADR		10042661
 ,	O
 nausea	B-ADR		10028813
 ,	O
-pain	B-ADR		10042076
-in	I-ADR		10042076
+pain	B-ADR		10003993
+in	I-ADR		10003993
 stomach	B-ADR		10042076
 &	O
 back	B-ADR		10003993

@@ -519,7 +519,7 @@ days	O
 with	O
 recent	O
 body	B-ADR		10042674	Swelling of body region
-swelling	B-ADR		10011301	Swelling of wrist joint
+swelling	B-ADR		10042707	Swelling of wrist joint
 ,	O
 face	B-ADR		10016065
 ,	O
@@ -1025,12 +1025,12 @@ pain	B-ADR		10033477	Ovarian pain
 in	I-ADR		10033477	Ovarian pain
 the	I-ADR		10033477	Ovarian pain
 ovaries	I-ADR		10033477	Ovarian pain
-(	B-ADR		10033477
-menopausal	I-ADR		10033477
-for	I-ADR		10033477
-20	I-ADR		10033477
-years	I-ADR		10033477
-)	I-ADR		10033477
+(	B-ADR		10046823
+menopausal	I-ADR		10046823
+for	I-ADR		10046823
+20	I-ADR		10046823
+years	I-ADR		10046823
+)	I-ADR		10046823
 pressure	B-ADR		10036637	Pressure
 in	I-ADR		10036637	Pressure
 the	I-ADR		10036637	Pressure
@@ -1499,7 +1499,7 @@ approx	O
 years	O
 it	O
 started	O
-affecting	B-ADR		10000479	Acid reflux
+affecting	B-ADR		10062237	Renal impairment
 my	B-ADR		10062237
 kidneys	I-ADR		10062237
 ,	O
@@ -1812,8 +1812,8 @@ disorientation	B-ADR		10013394	Disorientated
 
 followed	O
 by	O
-ulceration	B-ADR		10017822	Ulcer of oesophagus
-of	I-ADR		10017822	Ulcer of oesophagus
+ulceration	B-ADR		10056090	Gastric ulcer
+of	I-ADR		10056090	Gastric ulcer
 the	B-ADR		10056090
 osophragus	I-ADR		10056090
 ,	O
@@ -1887,7 +1887,7 @@ it	O
 has	O
 left	O
 me	O
-feeling	B-ADR		10012374	C/O - feeling depressed
+feeling	B-ADR		10016256	C/O - feeling depressed
 exausted	B-ADR		10016256
 ,	O
 and	O
@@ -1964,7 +1964,7 @@ this	O
 i	O
 couldnt	B-ADR		10046555	Urinary retention
 pass	I-ADR		10046555	Urinary retention
-urine	B-ADR		10018867	Haematuria
+urine	B-ADR		10046555	Haematuria
 ,	O
 when	O
 i	O
@@ -5904,7 +5904,7 @@ that	O
 helps	O
 for	O
 my	O
-knee	O	Knee pain
+knee	O	Knee joint inflamed
 pain	O
 /	O
 inflammation	O
@@ -6513,7 +6513,7 @@ immediatedly	O
 muscle	B-ADR		10028411	Myalgia
 /	O
 joint	B-ADR		10003239	Arthralgia
-pain	B-ADR		10028411
+pain	B-ADR		10003239
 eased	O
 and	O
 sleeping	O
@@ -8863,7 +8863,7 @@ intense	B-ADR		10034263	Pain in pelvis
 pelvic	I-ADR		10034263	Pain in pelvis
 and	O
 back	B-ADR		10003993	Backache
-pain	B-ADR		10034263
+pain	B-ADR		10003993
 .	O
 
 Felt	O
@@ -9799,7 +9799,7 @@ symptoms	O
 only	O
 now	O
 the	O
-abdominal	B-ADR		10000055	Excessive upper gastrointestinal gas
+abdominal	B-ADR		10000055	Abdominal colic
 gas	B-ADR		10016766
 ,	O
 cramps	B-ADR		10000055
@@ -9871,7 +9871,7 @@ past	O
 .	O
 
 The	O
-abdominal	B-ADR		10000055	Abdominal discomfort
+abdominal	B-ADR		10000055	Excessive upper gastrointestinal gas
 gas	B-ADR		10016766
 ,	O
 cramps	B-ADR		10000055
@@ -16543,8 +16543,8 @@ ABOUT	O
 Muddled	B-ADR		10012805	Unable to think clearly
 thinking	I-ADR		10012805	Unable to think clearly
 ,	O
-loss	B-ADR		10041909	Muscle weakness
-of	I-ADR		10041909	Muscle weakness
+loss	B-ADR		10028350	Lack of stamina
+of	I-ADR		10028350	Lack of stamina
 strength	B-ADR		10028350
 and	O
 stamina	B-ADR		10041909
@@ -16744,10 +16744,10 @@ I	O
 also	O
 started	O
 have	O
-muscle	B-ADR		10040617	Low back pain
-aches	I-ADR		10040617	Low back pain
-in	I-ADR		10040617	Low back pain
-my	I-ADR		10040617	Low back pain
+muscle	B-ADR		10028836	Shoulder pain
+aches	I-ADR		10028836	Shoulder pain
+in	I-ADR		10028836	Shoulder pain
+my	I-ADR		10028836	Shoulder pain
 neck	B-ADR		10028836
 and	O
 shoulders	B-ADR		10040617
@@ -16839,7 +16839,7 @@ of	I-ADR		10024862	Lack of energy
 energy	I-ADR		10024862	Lack of energy
 .	O
 
-Difficulty	B-ADR		10012805	Dysphonia
+Difficulty	B-ADR		10013952	Dysphonia
 thinking	B-ADR		10012805
 and	O
 speaking	B-ADR		10013952
@@ -17119,8 +17119,8 @@ Pain	B-ADR		10033371	Pain
 
 Deep	O
 throbbing	O
-pain	B-ADR		10028411	Myalgia
-in	I-ADR		10028411	Myalgia
+pain	B-ADR		10003239	Arthralgia
+in	I-ADR		10003239	Arthralgia
 my	B-ADR		10003239
 joints	I-ADR		10003239
 and	O
@@ -17606,7 +17606,7 @@ have	O
 back	B-ADR		10003993	Backache
 and	O
 chest	B-ADR		10008479	Chest pain
-pain	B-ADR		10003993
+pain	B-ADR		10008479
 that	O
 made	O
 think	O
@@ -18570,7 +18570,7 @@ knee	O
 surgery	O
 for	O
 a	O
-torn	O	Rupture of anterior cruciate ligament
+torn	O	Tear of meniscus of knee
 miniscus	O
 and	O
 ACL	O
@@ -18998,8 +18998,8 @@ months	O
 .	O
 
 HUGE	O
-changes	B-ADR		CONCEPT_LESS	Disturbance in physical behaviour
-in	I-ADR		CONCEPT_LESS	Disturbance in physical behaviour
+changes	B-ADR		CONCEPT_LESS	Mood swings
+in	I-ADR		CONCEPT_LESS	Mood swings
 his	O
 mood	B-ADR		10033428
 and	O
@@ -19081,7 +19081,7 @@ and	O
 still	O
 suffer	O
 terrible	O
-muscle	B-ADR		10028411	Myalgia
+muscle	B-ADR		10028289	Muscle atrophy
 pain	B-ADR		10028411
 and	O
 wasting	B-ADR		10028289
@@ -19513,7 +19513,7 @@ increased	O
 bone	B-ADR		10006002	Bone pain
 and	O
 muscle	B-ADR		10028411	Myalgia
-pain	B-ADR		10028411
+pain	B-ADR		10006002
 .	O
 
 I	O
@@ -20125,7 +20125,7 @@ any	O
 physical	B-ADR		CONCEPT_LESS
 /	O
 emotional	B-ADR		10033428	Mood swings
-changes	B-ADR		CONCEPT_LESS
+changes	B-ADR		10033428
 .	O
 
 -	O
@@ -20539,8 +20539,8 @@ know	O
 why	O
 .	O
 
-Could	B-ADR		10069830	Cannot sleep at all
-not	I-ADR		10069830	Cannot sleep at all
+Could	B-ADR		10041017	Cannot sleep at all
+not	I-ADR		10041017	Cannot sleep at all
 eat	B-ADR		10069830
 ,	O
 sleep	B-ADR		10041017
@@ -20895,7 +20895,7 @@ next	O
 years	O
 I	O
 developed	O
-inflammed	B-ADR		10064804	Inflammation of ligament
+inflammed	B-ADR		10006811	Bursitis
 ligaments	B-ADR		10064804
 and	O
 bursae	B-ADR		10006811
@@ -21311,8 +21311,8 @@ off	O
 I	O
 experienced	O
 severe	O
-pain	B-ADR		10028836	Neck pain
-in	I-ADR		10028836	Neck pain
+pain	B-ADR		10040617	Shoulder pain
+in	I-ADR		10040617	Shoulder pain
 my	O
 left	O
 shoulder	B-ADR		10040617
@@ -26262,7 +26262,7 @@ to	O
 pu	O
 .	O
 
-Severe	B-ADR		10048971	Generalised acute body pains
+Severe	B-ADR		10033371	Generalised acute body pains
 shoulder	B-ADR		10033371
 and	O
 upper	B-ADR		10048971
@@ -27226,7 +27226,7 @@ daily	O
 ,	O
 Lysine	O	lysine
 ,	O
-Vitamins	O	alpha tocopherol
+Vitamins	O	vitamin A
 A	O
 &	O
 E	O
@@ -28211,8 +28211,8 @@ recommend	O
 Lipitor	O	Lipitor
 .	O
 
-Pain	B-ADR		10003239	Arthralgia
-in	I-ADR		10003239	Arthralgia
+Pain	B-ADR		10003239	Foot pain
+in	I-ADR		10003239	Foot pain
 all	O
 my	O
 muscles	B-ADR		10028411
@@ -28506,9 +28506,9 @@ stomach	O
 
 I	O
 had	O
-aches	B-ADR		10042042	Knee stiff
-and	I-ADR		10042042	Knee stiff
-stiffness	I-ADR		10042042	Knee stiff
+aches	B-ADR		10042042	Hip stiff
+and	I-ADR		10042042	Hip stiff
+stiffness	I-ADR		10042042	Hip stiff
 in	O
 my	O
 hips	B-ADR		10049770
@@ -30471,7 +30471,7 @@ and	I-ADR		10028411	Myalgia
 joint	I-ADR		10028411	Myalgia
 pain	I-ADR		10028411	Myalgia
 ,	O
-swelling	B-ADR		10019121	Swelling of hand
+swelling	B-ADR		10042693	Swelling of hand
 of	O
 feet	B-ADR		10042693
 and	O
@@ -31789,8 +31789,8 @@ dosage	O
 ,	O
 came	O
 crippling	O
-pain	B-ADR		10028836	Backache
-in	I-ADR		10028836	Backache
+pain	B-ADR		10003993	Neck pain
+in	I-ADR		10003993	Neck pain
 my	O
 back	B-ADR		10003993
 ,	O
@@ -32436,8 +32436,8 @@ few	O
 blocks	O
 .	O
 
-Pain	B-ADR		10071701	Shoulder pain
-in	I-ADR		10071701	Shoulder pain
+Pain	B-ADR		10040617	Shoulder pain
+in	I-ADR		10040617	Shoulder pain
 lower	B-ADR		10024891
 back	I-ADR		10024891
 ,	O
@@ -32456,9 +32456,9 @@ PAD	O
 .	O
 
 I	O
-couldn	B-ADR		CONCEPT_LESS	Walking disability
-'	I-ADR		CONCEPT_LESS	Walking disability
-t	I-ADR		CONCEPT_LESS	Walking disability
+couldn	B-ADR		CONCEPT_LESS	Unable to walk up step
+'	I-ADR		CONCEPT_LESS	Unable to walk up step
+t	I-ADR		CONCEPT_LESS	Unable to walk up step
 climb	B-ADR		CONCEPT_LESS
 stairs	I-ADR		CONCEPT_LESS
 or	O
@@ -33283,9 +33283,9 @@ so	O
 severe	O
 that	O
 it	O
-limits	B-ADR		10053204	Unable to climb stairs
-my	I-ADR		10053204	Unable to climb stairs
-ability	I-ADR		10053204	Unable to climb stairs
+limits	B-ADR		CONCEPT_LESS	Unable to lift
+my	I-ADR		CONCEPT_LESS	Unable to lift
+ability	I-ADR		CONCEPT_LESS	Unable to lift
 to	B-ADR		10053204
 walk	I-ADR		10053204
 and	O
@@ -33784,8 +33784,8 @@ felt	I-ADR		CONCEPT_LESS
 arthritic	I-ADR		CONCEPT_LESS
 ;	I-ADR		CONCEPT_LESS
 had	O
-problems	B-ADR		10021649	Memory impairment
-with	I-ADR		10021649	Memory impairment
+problems	B-ADR		10021649	Incoordination
+with	I-ADR		10021649	Incoordination
 memory	B-ADR		10027175
 &	O
 coordination	B-ADR		10021649
@@ -34012,8 +34012,8 @@ two	O
 years	O
 .	O
 
-Pain	B-ADR		10033430	Hand pain
-in	I-ADR		10033430	Hand pain
+Pain	B-ADR		10071701	Pain in upper limb
+in	I-ADR		10071701	Pain in upper limb
 shoulder	B-ADR		10040617
 and	O
 arms	B-ADR		10071701
@@ -34021,7 +34021,7 @@ and	O
 hands	B-ADR		10033430
 .	O
 
-Hands	B-ADR		10065702	Weakness of hand
+Hands	B-ADR		10049681	Numbness of hand
 are	O
 often	O
 numb	B-ADR		10049681
@@ -35077,8 +35077,8 @@ an	O
 abrupt	O
 and	O
 chronic	O
-pain	B-ADR		10033430	Backache
-in	I-ADR		10033430	Backache
+pain	B-ADR		10048973	Pain in upper limb
+in	I-ADR		10048973	Pain in upper limb
 my	B-ADR		10071701
 arms	I-ADR		10071701
 ,	O
@@ -35260,9 +35260,9 @@ eye	O
 ,	O
 hives	B-ADR		10020197	Hives
 ,	O
-severe	B-ADR		10071701	Pain in upper limb
-pain	I-ADR		10071701	Pain in upper limb
-in	I-ADR		10071701	Pain in upper limb
+severe	B-ADR		10033371	Severe pain
+pain	I-ADR		10033371	Severe pain
+in	I-ADR		10033371	Severe pain
 left	B-ADR		10033371
 shoulder	I-ADR		10033371
 ,	I-ADR		10033371
@@ -36063,10 +36063,10 @@ years	O
 of	O
 use	O
 -	O
-SEVERE	B-ADR		10033432	Severe pain
-muscle	I-ADR		10033432	Severe pain
-pain	I-ADR		10033432	Severe pain
-in	I-ADR		10033432	Severe pain
+SEVERE	B-ADR		10033371	Severe pain
+muscle	I-ADR		10033371	Severe pain
+pain	I-ADR		10033371	Severe pain
+in	I-ADR		10033371	Severe pain
 sholder	B-ADR		10033371
 and	O
 hip	B-ADR		10033432
@@ -36212,7 +36212,7 @@ and	O
 back	B-ADR		10028294
 .	O
 
-Problems	B-ADR		10012804	Difficulty sleeping
+Problems	B-ADR		10012804	Poor concentration
 sleeping	B-ADR		10012804
 and	O
 concentrating	B-ADR		10036149
@@ -37597,12 +37597,12 @@ nose	I-ADR		10028735	Nasal congestion
 ,	O
 plugged	B-ADR		10039995	Blocked ears
 ears	I-ADR		10039995	Blocked ears
-,	B-ADR		10027175	Impairment of balance
-lack	I-ADR		10027175	Impairment of balance
-of	I-ADR		10027175	Impairment of balance
-balance	I-ADR		10027175	Impairment of balance
-and	I-ADR		10027175	Impairment of balance
-cooridination	I-ADR		10027175	Impairment of balance
+,	B-ADR		10027175	Blocked ears
+lack	I-ADR		10027175	Blocked ears
+of	I-ADR		10027175	Blocked ears
+balance	I-ADR		10027175	Blocked ears
+and	I-ADR		10027175	Blocked ears
+cooridination	I-ADR		10027175	Blocked ears
 ,	O
 kidney	O	Renal calculus
 stone	O	Renal calculus
@@ -38100,8 +38100,8 @@ fatigue	I-ADR		10003549	Asthenia
 muscle	B-ADR		10028330	Muscle rigidity
 stiffness	I-ADR		10028330	Muscle rigidity
 ;	O
-tingling	B-ADR		10043881	Pins and needles
-in	I-ADR		10043881	Pins and needles
+tingling	B-ADR		10043881	Tingling of skin
+in	I-ADR		10043881	Tingling of skin
 feet	B-ADR		10035067
 ,	O
 hands	B-ADR		10035067
@@ -38310,8 +38310,8 @@ muscle	B-ADR		10028411	Myalgia
 pain	B-ADR		10028836
 ,	O
 horrible	O
-pain	B-ADR		10000441	Headache
-in	I-ADR		10000441	Headache
+pain	B-ADR		10000441	Tenalgia
+in	I-ADR		10000441	Tenalgia
 every	B-ADR		10019211
 tendon	I-ADR		10019211
 in	B-ADR		10066371
@@ -38406,8 +38406,8 @@ I	O
 am	O
 having	O
 horrible	O
-aching	B-ADR		10033452	Pain in toe
-in	I-ADR		10033452	Pain in toe
+aching	B-ADR		10023477	Pain in finger
+in	I-ADR		10023477	Pain in finger
 my	B-ADR		10033428
 fingers	I-ADR		10033428
 ,	O
@@ -39686,7 +39686,7 @@ Hip	B-ADR		10033432	Hip pain
 back	B-ADR		10003993	Backache
 and	O
 leg	B-ADR		10033473	Pain in lower limb
-pain	B-ADR		10033432
+pain	B-ADR		10033473
 .	O
 
 Along	O
@@ -40304,8 +40304,8 @@ right	O
 buttock	O
 .	O
 
-Unable	B-ADR		CONCEPT_LESS	Unable to walk
-to	I-ADR		CONCEPT_LESS	Unable to walk
+Unable	B-ADR		CONCEPT_LESS	Unable to sit
+to	I-ADR		CONCEPT_LESS	Unable to sit
 get	B-ADR		CONCEPT_LESS
 out	I-ADR		CONCEPT_LESS
 of	I-ADR		CONCEPT_LESS
@@ -40581,8 +40581,8 @@ bad	O
 )	O
 .	O
 
-pain	B-ADR		10040617	Shoulder pain
-in	I-ADR		10040617	Shoulder pain
+pain	B-ADR		10071701	Pain in upper limb
+in	I-ADR		10071701	Pain in upper limb
 shoulder	B-ADR		10040617
 and	O
 arm	B-ADR		10071701
@@ -40770,7 +40770,7 @@ debilitating	O
 joint	B-ADR		10003239	Arthralgia
 and	O
 muscle	B-ADR		10028411	Myalgia
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 .	O
 
 I	O
@@ -41379,8 +41379,8 @@ unable	O
 to	O
 leave	O
 ,	O
-loss	B-ADR		10019045	Loss of hair
-of	I-ADR		10019045	Loss of hair
+loss	B-ADR		10024419	Loss of hair
+of	I-ADR		10024419	Loss of hair
 sex	B-ADR		10024419
 drive	I-ADR		10024419
 ,	O
@@ -43333,7 +43333,7 @@ pain	I-ADR		10033371	Severe pain
 ,	O
 fatigue	B-ADR		10016256	Fatigue
 ,	O
-sore	B-ADR		10028411	Myalgia
+sore	B-ADR		10003239	Arthralgia
 muscles	B-ADR		10028411
 and	O
 joints	B-ADR		10003239
@@ -43683,8 +43683,8 @@ diarria	B-ADR		10012735	Diarrhoea
 Have	O
 also	O
 had	O
-muscle	B-ADR		10024891	Low back pain
-pain	I-ADR		10024891	Low back pain
+muscle	B-ADR		10051587	Myalgia/myositis - lower leg
+pain	I-ADR		10051587	Myalgia/myositis - lower leg
 especially	O
 in	B-ADR		10051587
 the	I-ADR		10051587
@@ -43758,7 +43758,7 @@ pain	I-ADR		10003239	Arthralgia
 back	B-ADR		10003993	Backache
 and	O
 shoulder	B-ADR		10040617	Shoulder pain
-pain	B-ADR		10040617
+pain	B-ADR		10003993
 ,	O
 arm	B-ADR		10071701	Pain in upper limb
 pain	I-ADR		10071701	Pain in upper limb
@@ -43771,8 +43771,8 @@ the	I-ADR		10035067	Pins and needles
 hands	I-ADR		10035067	Pins and needles
 .	O
 
-Edema	B-ADR		10002546	Oedema of hand
-of	I-ADR		10002546	Oedema of hand
+Edema	B-ADR		10058204	Ankle oedema
+of	I-ADR		10058204	Ankle oedema
 hands	B-ADR		10058204
 and	O
 ankles	B-ADR		10002546
@@ -43794,8 +43794,8 @@ joints	I-ADR		10003239	Arthralgia
 .	O
 
 I	O
-could	B-ADR		10048334	Reduced mobility
-barely	I-ADR		10048334	Reduced mobility
+could	B-ADR		CONCEPT_LESS	Difficulty walking up stairs
+barely	I-ADR		CONCEPT_LESS	Difficulty walking up stairs
 get	B-ADR		10048334
 out	I-ADR		10048334
 of	I-ADR		10048334
@@ -44761,9 +44761,9 @@ of	O
 them	O
 .	O
 
-muscle	B-ADR		10047868	Muscle weakness
-weakness	I-ADR		10047868	Muscle weakness
-in	I-ADR		10047868	Muscle weakness
+muscle	B-ADR		10028350	Muscle weakness
+weakness	I-ADR		10028350	Muscle weakness
+in	I-ADR		10028350	Muscle weakness
 ankle	B-ADR		10047868
 ,	O
 plantar	B-ADR		10047868
@@ -46501,7 +46501,7 @@ Severe	B-ADR		10033371	Severe pain
 knee	I-ADR		10033371	Severe pain
 and	O
 back	B-ADR		10003993	Backache
-pain	B-ADR		10033371
+pain	B-ADR		10003993
 .	O
 
 Several	O
@@ -46871,8 +46871,8 @@ wrists	B-ADR		10042041	Wrist stiff
 ,	O
 and	O
 knees	B-ADR		10042042	Knee stiff
-seized	B-ADR		10042041
-up	I-ADR		10042041
+seized	B-ADR		10042042
+up	I-ADR		10042042
 .	O
 
 I	O
@@ -48089,7 +48089,7 @@ Severe	B-ADR		10033371	Severe pain
 back	I-ADR		10033371	Severe pain
 and	O
 neck	B-ADR		10028836	Neck pain
-pains	B-ADR		10033371
+pains	B-ADR		10028836
 that	O
 led	O
 to	O
@@ -49209,7 +49209,7 @@ have	O
 arthritic	B-ADR		10031165	Arthritis of knee
 knees	I-ADR		10031165	Arthritis of knee
 ,	O
-hands	B-ADR		10049230	Numbness of hand
+hands	B-ADR		10049681	Numbness of hand
 that	O
 are	O
 numb	B-ADR		10049681
@@ -50123,7 +50123,7 @@ too	I-ADR		10050218	Unable to stand
 long	I-ADR		10050218	Unable to stand
 .	O
 
-Hands	B-ADR		10049230	Paraesthesia of hand
+Hands	B-ADR		10049230	Tenderness of upper limb
 are	O
 also	O
 tender	B-ADR		10049230
@@ -51169,10 +51169,10 @@ fine	O
 and	O
 I	O
 had	O
-severe	B-ADR		10065955	Arthritis of hip
-arthritis	I-ADR		10065955	Arthritis of hip
-symptoms	I-ADR		10065955	Arthritis of hip
-in	I-ADR		10065955	Arthritis of hip
+severe	B-ADR		10031165	Arthritis of knee
+arthritis	I-ADR		10031165	Arthritis of knee
+symptoms	I-ADR		10031165	Arthritis of knee
+in	I-ADR		10031165	Arthritis of knee
 knees	B-ADR		10031165
 and	O
 hip	B-ADR		10065955
@@ -51875,7 +51875,7 @@ gone	O
 back	B-ADR		10003993	Backache
 pain	I-ADR		10003993	Backache
 ,	O
-aching	B-ADR		10028411	Myalgia
+aching	B-ADR		10003239	Arthralgia
 joints	B-ADR		10003239
 and	O
 muscles	B-ADR		10028411
@@ -52314,8 +52314,8 @@ medication	O
 Shoulder	B-ADR		10028411	Myalgia/myositis - shoulder
 and	O
 neck	B-ADR		10028836	Neck pain
-muscle	B-ADR		10028836
-pain	I-ADR		10028836
+muscle	B-ADR		10028411
+pain	I-ADR		10028411
 ,	O
 tender	B-ADR		10048913	Joint tenderness
 joints	I-ADR		10048913	Joint tenderness
@@ -52529,8 +52529,8 @@ well	O
 
 still	O
 have	O
-pain	B-ADR		10033473	Pain in upper limb
-in	I-ADR		10033473	Pain in upper limb
+pain	B-ADR		10071701	Pain in lower limb
+in	I-ADR		10071701	Pain in lower limb
 arms	B-ADR		10071701
 and	O
 legs	B-ADR		10033473
@@ -52748,9 +52748,9 @@ combination	O
 EXTREME	O
 AND	O
 EXCRUCIATING	O
-MUSCLE	B-ADR		10028411	Myalgia/myositis - shoulder
-PAIN	I-ADR		10028411	Myalgia/myositis - shoulder
-IN	I-ADR		10028411	Myalgia/myositis - shoulder
+MUSCLE	B-ADR		10028836	Neck pain
+PAIN	I-ADR		10028836	Neck pain
+IN	I-ADR		10028836	Neck pain
 SHOULDERS	B-ADR		10028411
 ,	O
 NECK	B-ADR		10028836
@@ -53423,15 +53423,15 @@ weakness	B-ADR		10003549	Asthenia
 /	O
 stiffness	B-ADR		10042045	Stiffness
 ,	O
-cramps	B-ADR		10016964	Cramp in foot
-in	I-ADR		10016964	Cramp in foot
+cramps	B-ADR		10011287	Cramp in foot
+in	I-ADR		10011287	Cramp in foot
 my	B-ADR		10016964
 feet	I-ADR		10016964
 and	O
 hands	B-ADR		10011287
 ,	O
-pain	B-ADR		10071701	Chest pain
-in	I-ADR		10071701	Chest pain
+pain	B-ADR		10071701	Pain in upper limb
+in	I-ADR		10071701	Pain in upper limb
 my	B-ADR		10071701
 arms	I-ADR		10071701
 and	O
@@ -53582,7 +53582,7 @@ test	O
 results	O
 w	O
 /	O
-elevated	B-ADR		10068559	Serum creatinine raised
+elevated	B-ADR		10037825	Serum creatinine raised
 CRP	B-ADR		10068559
 ,	O
 BUN	B-ADR		CONCEPT_LESS
@@ -53685,7 +53685,7 @@ heart	B-ADR		10019276	Heart disease
 kidney	B-ADR		10051051	Kidney disease
 and	O
 muscle	B-ADR		10028641	Myopathy
-damage	B-ADR		10028641
+damage	B-ADR		10019276
 .	O
 
 75	O
@@ -53726,7 +53726,7 @@ periodic	O
 back	B-ADR		10003993	Backache
 and	O
 hip	B-ADR		10033432	Hip pain
-pain	B-ADR		10003993
+pain	B-ADR		10033432
 ,	O
 gradual	O
 loss	B-ADR		10052407	Paraesthesia of foot
@@ -55366,8 +55366,8 @@ leg	B-ADR		10011301	Cramp in lower limb
 cramps	I-ADR		10011301	Cramp in lower limb
 .	O
 
-pain	B-ADR		10003239	Arthralgia
-in	I-ADR		10003239	Arthralgia
+pain	B-ADR		10033446	Pain in left leg
+in	I-ADR		10033446	Pain in left leg
 my	B-ADR		10033446
 left	I-ADR		10033446
 leg	I-ADR		10033446
@@ -56637,8 +56637,8 @@ nausea	B-ADR		10028813	Nausea
 muscle	B-ADR		10028411	Myalgia
 aches	I-ADR		10028411	Myalgia
 ,	O
-loss	B-ADR		10024862	Lack of energy
-of	I-ADR		10024862	Lack of energy
+loss	B-ADR		CONCEPT_LESS	Lack of energy
+of	I-ADR		CONCEPT_LESS	Lack of energy
 energy	B-ADR		10024862
 &	O
 productivity	B-ADR		CONCEPT_LESS
@@ -56857,7 +56857,7 @@ last	O
 3	O
 weeks	O
 my	O
-neck	B-ADR		10049568	Gland symptom
+neck	B-ADR		10049568	Neck pain
 is	O
 in	O
 a	O
@@ -57120,7 +57120,7 @@ neck	I-ADR		10033371	Severe pain
 /	O
 shoulder	B-ADR		10040617	Shoulder pain
 /	O
-pain	B-ADR		10040617
+pain	B-ADR		10033371
 ,	O
 achiness	B-ADR		10033371	Pain
 ,	O
@@ -58259,7 +58259,7 @@ Levels	O
 almost	O
 normal	O
 ;	O
-muscles	B-ADR		10028411	Myalgia
+muscles	B-ADR		10028330	Myalgia
 in	O
 entire	O
 body	O
@@ -58793,8 +58793,8 @@ the	O
 
 Sterted	O
 with	O
-swelling	B-ADR		10042697	Swollen knee
-in	I-ADR		10042697	Swollen knee
+swelling	B-ADR		10042715	Swollen ankle
+in	I-ADR		10042715	Swollen ankle
 one	B-ADR		10042715
 ankle	I-ADR		10042715
 then	O
@@ -58979,7 +58979,7 @@ Neck	B-ADR		10028836	Neck pain
 shoulder	B-ADR		10040617	Shoulder pain
 and	O
 elbow	B-ADR		10033424	Pain in elbow
-pain	B-ADR		10033424
+pain	B-ADR		10040617
 .	O
 
 Absentminded	B-ADR		10067170	Absent minded
@@ -61074,7 +61074,7 @@ went	O
 to	O
 MD	O
 with	O
-sore	B-ADR		10028836	Pain in upper limb
+sore	B-ADR		10028836	Neck pain
 neck	B-ADR		10028836
 /	O
 arms	B-ADR		10071701
@@ -61368,7 +61368,7 @@ knee	B-ADR		10023477	Knee pain
 leg	B-ADR		10033473	Pain in lower limb
 /	O
 hip	B-ADR		10033432	Hip pain
-pain	B-ADR		10033432
+pain	B-ADR		10023477
 ,	O
 aching	B-ADR		10033371	Pain
 and	O
@@ -61812,8 +61812,8 @@ for	O
 5	O
 years	O
 :	O
-pain	B-ADR		10023477	Knee pain
-in	I-ADR		10023477	Knee pain
+pain	B-ADR		10040617	Neck pain
+in	I-ADR		10040617	Neck pain
 the	B-ADR		10023477
 knees	I-ADR		10023477
 and	I-ADR		10023477
@@ -61936,7 +61936,7 @@ in	I-ADR		10046273	Thoracic back pain
 upper	I-ADR		10046273	Thoracic back pain
 back	I-ADR		10046273	Thoracic back pain
 ,	O
-head	B-ADR		10019211	Headache
+head	B-ADR		10019200	Increased pressure
 pain	B-ADR		10019211
 and	O
 pressure	B-ADR		10019200
@@ -62193,7 +62193,7 @@ shoulders	O
 gradually	O
 became	O
 very	O
-painful	B-ADR		10028411
+painful	B-ADR		10003239
 .	O
 
 My	O
@@ -62445,9 +62445,9 @@ and	O
 joint	B-ADR		10003239	Arthralgia
 pain	B-ADR		10028411
 ,	O
-Burning	B-ADR		10006785	Burning sensation
-sensations	I-ADR		10006785	Burning sensation
-in	I-ADR		10006785	Burning sensation
+Burning	B-ADR		10006786	Burning sensation
+sensations	I-ADR		10006786	Burning sensation
+in	I-ADR		10006786	Burning sensation
 neck	B-ADR		10006786
 shoulders	B-ADR		10006784
 and	O
@@ -63694,7 +63694,7 @@ normal	O
 blurred	B-ADR		10005886	Blurred vision - hazy
 vision	I-ADR		10005886	Blurred vision - hazy
 ,	O
-muscle	B-ADR		10028411	Muscle weakness
+muscle	B-ADR		10028411	Myalgia
 pain	B-ADR		10028411
 and	O
 weakness	B-ADR		10028350
@@ -64434,8 +64434,8 @@ and	O
 shoulders	O
 .	O
 
-Pain	B-ADR		10033422	Low back pain
-in	I-ADR		10033422	Low back pain
+Pain	B-ADR		10033422	Pain in calf
+in	I-ADR		10033422	Pain in calf
 lower	B-ADR		10033422
 legs	I-ADR		10033422
 and	O
@@ -64694,8 +64694,8 @@ do	O
 I	O
 admit	O
 cholesterol	O
-went	B-ADR		10028350	Lack of stamina
-down	I-ADR		10028350	Lack of stamina
+went	B-ADR		10041909	Muscle weakness
+down	I-ADR		10041909	Muscle weakness
 but	O
 so	O
 did	O
@@ -65497,8 +65497,8 @@ I	O
 have	O
 been	O
 experiencing	O
-pain	B-ADR		10033422	Pain in calf
-in	I-ADR		10033422	Pain in calf
+pain	B-ADR		10033422	Hip pain
+in	I-ADR		10033422	Hip pain
 my	O
 right	O
 hip	B-ADR		10033432
@@ -65827,7 +65827,7 @@ exercise	O
 DEPRESSION	B-ADR		10012378	Depression
 !	O
 !	O
-muscle	B-ADR		10028411	Muscle twitch
+muscle	B-ADR		10028346	Muscle twitch
 twitching	B-ADR		10028346
 and	O
 pain	B-ADR		10028411
@@ -68016,7 +68016,7 @@ on	O
 tightness	B-ADR		10070541	Muscle tension
 and	O
 fatigue	B-ADR		10049565	Muscle fatigue
-in	B-ADR		10070541
+in	B-ADR		10049565
 forearms	B-ADR		10049565
 and	O
 legs	B-ADR		10070541
@@ -68224,10 +68224,10 @@ been	O
 taking	O
 it	O
 my	O
-right	B-ADR		10049681	Hand pain
-hand	I-ADR		10049681	Hand pain
-has	I-ADR		10049681	Hand pain
-been	I-ADR		10049681	Hand pain
+right	B-ADR		10049681	Numbness of hand
+hand	I-ADR		10049681	Numbness of hand
+has	I-ADR		10049681	Numbness of hand
+been	I-ADR		10049681	Numbness of hand
 getting	B-ADR		10049681
 numb	I-ADR		10049681
 and	O
@@ -68273,7 +68273,7 @@ taking	O
 it	O
 .	O
 
-serious	B-ADR		10011287	Cramp in foot
+serious	B-ADR		10011287	Hand cramps
 hands	B-ADR		10011287
 &	O
 feet	B-ADR		10016964
@@ -68281,9 +68281,9 @@ cramping	B-ADR		10011287
 ,	O
 weakness	B-ADR		10003549	Asthenia
 ,	O
-painful	B-ADR		10033456	Arthralgia
-inflamation	I-ADR		10033456	Arthralgia
-of	I-ADR		10033456	Arthralgia
+painful	B-ADR		10003239	Arthralgia
+inflamation	I-ADR		10003239	Arthralgia
+of	I-ADR		10003239	Arthralgia
 joints	B-ADR		10003239
 /	O
 knuckles	B-ADR		10033456
@@ -71252,10 +71252,10 @@ months	O
 
 I	O
 had	O
-muscle	B-ADR		10051587	Myalgia/myositis - lower leg
-pain	I-ADR		10051587	Myalgia/myositis - lower leg
-in	I-ADR		10051587	Myalgia/myositis - lower leg
-the	I-ADR		10051587	Myalgia/myositis - lower leg
+muscle	B-ADR		10051587	Myalgia/myositis - upper arm
+pain	I-ADR		10051587	Myalgia/myositis - upper arm
+in	I-ADR		10051587	Myalgia/myositis - upper arm
+the	I-ADR		10051587	Myalgia/myositis - upper arm
 shoulder	B-ADR		10028411
 ,	O
 arms	B-ADR		10028411
@@ -71464,10 +71464,10 @@ But	O
 I	O
 too	O
 have	O
-joint	B-ADR		10023477	Hip pain
-pain	I-ADR		10023477	Hip pain
-in	I-ADR		10023477	Hip pain
-my	I-ADR		10023477	Hip pain
+joint	B-ADR		10003241	Hip pain
+pain	I-ADR		10003241	Hip pain
+in	I-ADR		10003241	Hip pain
+my	I-ADR		10003241	Hip pain
 knees	B-ADR		10023477
 ,	O
 hips	B-ADR		10033432
@@ -72010,9 +72010,9 @@ IT	O
 .	O
 
 Cramping	B-ADR		10028294	Muscle cramp
-aching	B-ADR		10003993	Backache
-muscles	I-ADR		10003993	Backache
-in	I-ADR		10003993	Backache
+aching	B-ADR		10003993	Myalgia/myositis - lower leg
+muscles	I-ADR		10003993	Myalgia/myositis - lower leg
+in	I-ADR		10003993	Myalgia/myositis - lower leg
 legs	B-ADR		10051587
 and	O
 back	B-ADR		10003993
@@ -72467,8 +72467,8 @@ calf	B-ADR		10033371
 ,	O
 feet	B-ADR		10033371
 ,	O
-cramping	B-ADR		10011301	Cramp in lower limb
-in	I-ADR		10011301	Cramp in lower limb
+cramping	B-ADR		10016964	Cramp in lower limb
+in	I-ADR		10016964	Cramp in lower limb
 legs	B-ADR		10011301
 and	O
 feet	B-ADR		10016964
@@ -72941,8 +72941,8 @@ have	O
 soreness	B-ADR		10048973	Thigh pain
 and	O
 weakness	B-ADR		10047868	Weakness of limb
-in	B-ADR		10048973
-thighs	I-ADR		10048973
+in	B-ADR		10047868
+thighs	I-ADR		10047868
 from	O
 walking	O
 short	O
@@ -73017,14 +73017,14 @@ well	O
 .	O
 
 my	O
-legs	B-ADR		10052409	Numbness of lower limb
+legs	B-ADR		10052409	Paraesthesia of lower extremity
 and	O
-arms	B-ADR		10029854	Tingling of skin
-started	B-ADR		10029854
+arms	B-ADR		10029854	Numbness of upper limb
+started	B-ADR		10052409
 going	B-ADR		10029850
 numb	I-ADR		10029850
 and	O
-tingling	B-ADR		10043881
+tingling	B-ADR		10052409
 .	O
 
 extreme	B-ADR		10003549	Asthenia
@@ -73111,9 +73111,9 @@ in	I-ADR		10011290	Cramp in lower leg
 lower	I-ADR		10011290	Cramp in lower leg
 legs	I-ADR		10011290	Cramp in lower leg
 ,	O
-sever	B-ADR		10042693	Ankle oedema
-swelling	I-ADR		10042693	Ankle oedema
-of	I-ADR		10042693	Ankle oedema
+sever	B-ADR		10002546	Ankle oedema
+swelling	I-ADR		10002546	Ankle oedema
+of	I-ADR		10002546	Ankle oedema
 feet	B-ADR		10042693
 ,	O
 hands	B-ADR		10019121
@@ -73306,9 +73306,9 @@ hand	I-ADR		10033386
 stiffness	B-ADR		10042042	Knee stiff
 and	O
 pain	B-ADR		10023477	Knee pain
-in	B-ADR		10023477
-both	I-ADR		10023477
-knees	I-ADR		10023477
+in	B-ADR		10042042
+both	I-ADR		10042042
+knees	I-ADR		10042042
 ,	O
 pain	B-ADR		10046273	Thoracic back pain
 in	I-ADR		10046273	Thoracic back pain
@@ -73600,9 +73600,9 @@ at	O
 all	O
 .	O
 
-Muscle	B-ADR		10028411	Thoracic back pain
-Pain	I-ADR		10028411	Thoracic back pain
-in	I-ADR		10028411	Thoracic back pain
+Muscle	B-ADR		10028411	Myalgia/myositis - forearm
+Pain	I-ADR		10028411	Myalgia/myositis - forearm
+in	I-ADR		10028411	Myalgia/myositis - forearm
 left	B-ADR		10028411
 arm	I-ADR		10028411
 and	O
@@ -73610,7 +73610,7 @@ upper	B-ADR		10046273
 back	I-ADR		10046273
 .	O
 
-Hair	B-ADR		CONCEPT_LESS	Loss of hair
+Hair	B-ADR		10019045	Loss of hair
 dryness	O
 ,	O
 breakage	B-ADR		CONCEPT_LESS
@@ -73635,7 +73635,7 @@ CoQ10	O	ubidecarenone
 supplements	O
 but	O
 the	O
-hair	B-ADR		10013779	Dry hair
+hair	B-ADR		10019045	Dry hair
 dryness	B-ADR		10013779
 ,	O
 breakage	B-ADR		CONCEPT_LESS
@@ -73984,17 +73984,17 @@ or	O
 not	O
 .	O
 
-Muscle	B-ADR		10051587	Myalgia/myositis - lower leg
+Muscle	B-ADR		10051587	Myalgia/myositis - forearm
 and	O
-joint	B-ADR		10033424	Arthralgia of the upper arm
-aches	B-ADR		10028411
-in	I-ADR		10028411
-arms	B-ADR		10003239
+joint	B-ADR		10003239	Elbow joint pain
+aches	B-ADR		10051587
+in	I-ADR		10051587
+arms	B-ADR		10028411
 ,	O
-elbows	B-ADR		10028411
+elbows	B-ADR		10033424
 ,	O
 and	O
-calves	B-ADR		10003239
+calves	B-ADR		10051587
 .	O
 
 Felt	O
@@ -74082,13 +74082,13 @@ after	O
 15	O
 months	O
 the	O
-muscle	B-ADR		10028411	Backache
-pain	I-ADR		10028411	Backache
+muscle	B-ADR		10033422	Neck pain
+pain	I-ADR		10033422	Neck pain
 started	O
 -	O
 particularly	O
-in	B-ADR		10028836
-the	I-ADR		10028836
+in	B-ADR		10033422
+the	I-ADR		10033422
 glutes	B-ADR		10028411
 ,	O
 calves	B-ADR		10033422
@@ -74222,7 +74222,7 @@ symptoms	I-ADR		CONCEPT_LESS
 Numbness	B-ADR		10029833	Numbness of upper limb
 and	O
 tingling	B-ADR		10035067	Pins and needles
-on	B-ADR		10035067
+on	B-ADR		10029854
 left	B-ADR		10029833
 side	I-ADR		10029833
 of	I-ADR		10029833
@@ -74704,7 +74704,7 @@ in	O
 the	O
 hospital	O
 ,	O
-yellow	B-ADR		10048245	Scleral icterus
+yellow	B-ADR		10057488	Scleral icterus
 skin	B-ADR		10048245
 ,	O
 eyes	B-ADR		10057488
@@ -75333,7 +75333,7 @@ days	O
 I	O
 have	O
 experienced	O
-swollen	B-ADR		10042702	Swollen legs
+swollen	B-ADR		10042702	Swollen ankle
 legs	B-ADR		10042702
 and	O
 ankles	B-ADR		10042715
@@ -75405,7 +75405,7 @@ days	O
 I	O
 have	O
 experienced	O
-swollen	B-ADR		10042702	Swollen legs
+swollen	B-ADR		10042702	Swollen ankle
 legs	B-ADR		10042702
 and	O
 ankles	B-ADR		10042715
@@ -75494,8 +75494,8 @@ the	O
 same	O
 .	O
 
-Pain	B-ADR		10033432	Pain in elbow
-in	I-ADR		10033432	Pain in elbow
+Pain	B-ADR		10024891	Pain in elbow
+in	I-ADR		10024891	Pain in elbow
 hip	B-ADR		10033432
 ,	O
 lower	B-ADR		10024891
@@ -75669,9 +75669,9 @@ unable	O
 to	O
 exercise	O
 ,	O
-Weak	B-ADR		10047868	Asthenia
-&	I-ADR		10047868	Asthenia
-wobbley	I-ADR		10047868	Asthenia
+Weak	B-ADR		10003549	Asthenia
+&	I-ADR		10003549	Asthenia
+wobbley	I-ADR		10003549	Asthenia
 ankles	B-ADR		10047868
 ,	O
 knees	B-ADR		10047868
@@ -76393,8 +76393,8 @@ and	O
 day	O
 1	O
 had	O
-very	B-ADR		10033371	Muscle cramp
-severe	I-ADR		10033371	Muscle cramp
+very	B-ADR		10028294	Muscle cramp
+severe	I-ADR		10028294	Muscle cramp
 cramps	B-ADR		10028294
 and	O
 pains	B-ADR		10033371
@@ -76468,7 +76468,7 @@ shoulder	B-ADR		10040617	Shoulder pain
 arm	B-ADR		10071701	Pain in upper limb
 and	O
 hand	B-ADR		10033430	Hand pain
-pain	B-ADR		10033430
+pain	B-ADR		10071701
 -	O
 am	O
 having	O
@@ -76667,7 +76667,7 @@ hip	B-ADR		10033432	Hip pain
 leg	B-ADR		10033473	Pain in lower limb
 /	O
 foot	B-ADR		10016974	Foot pain
-pain	B-ADR		10033473
+pain	B-ADR		10033432
 and	O
 numbness	B-ADR		10029829	Numbness
 .	O
@@ -76851,7 +76851,7 @@ ANKLE	B-ADR		10033379	Ankle pain
 CALF	B-ADR		10033422	Pain in calf
 ,	O
 THIGH	B-ADR		10048973	Thigh pain
-PAIN	B-ADR		10048973
+PAIN	B-ADR		10033379
 .	O
 
 SOMETIMES	O
@@ -77364,11 +77364,11 @@ and	O
 stiffness	B-ADR		10042043	Stiff neck
 from	O
 the	O
-neck	B-ADR		10028836
+neck	B-ADR		10042043
 and	O
-pain	B-ADR		10003993	Backache
-in	I-ADR		10003993	Backache
-the	I-ADR		10003993	Backache
+pain	B-ADR		10003993	Shoulder pain
+in	I-ADR		10003993	Shoulder pain
+the	I-ADR		10003993	Shoulder pain
 shoulder	B-ADR		10040617
 and	O
 back	B-ADR		10003993
@@ -79254,11 +79254,11 @@ pain	I-ADR		10003993	Backache
 .	O
 
 I	O
-felt	B-ADR		10040000	Heavy legs
+felt	B-ADR		CONCEPT_LESS	Heavy legs
 always	O
-like	B-ADR		10040000
-I	I-ADR		10040000
-had	I-ADR		10040000
+like	B-ADR		CONCEPT_LESS
+I	I-ADR		CONCEPT_LESS
+had	I-ADR		CONCEPT_LESS
 a	B-ADR		CONCEPT_LESS
 veil	I-ADR		CONCEPT_LESS
 over	I-ADR		CONCEPT_LESS
@@ -79364,9 +79364,9 @@ for	O
 months	O
 I	O
 had	O
-terrible	B-ADR		10023477	Pain in toe
-pains	I-ADR		10023477	Pain in toe
-in	I-ADR		10023477	Pain in toe
+terrible	B-ADR		10033452	Knee pain
+pains	I-ADR		10033452	Knee pain
+in	I-ADR		10033452	Knee pain
 knee	B-ADR		10023477
 ,	O
 ankle	B-ADR		10033379
@@ -79375,14 +79375,14 @@ big	B-ADR		10033452
 toe	I-ADR		10033452
 .	O
 
-Couldn	B-ADR		10047810	Walking disability
-'	I-ADR		10047810	Walking disability
-t	I-ADR		10047810	Walking disability
+Couldn	B-ADR		10012804	Walking disability
+'	I-ADR		10012804	Walking disability
+t	I-ADR		10012804	Walking disability
 walk	B-ADR		10047810
 or	O
 even	O
 sleep	B-ADR		10012804
-comfortably	B-ADR		10012804
+comfortably	B-ADR		10047810
 .	O
 
 I	O
@@ -79455,15 +79455,15 @@ some	O
 pain	B-ADR		10033371	Pain
 and	O
 other	O
-weird	B-ADR		10053168	Clicking knee
-symptoms	I-ADR		10053168	Clicking knee
-(	I-ADR		10053168	Clicking knee
-eg	I-ADR		10053168	Clicking knee
-.	I-ADR		10053168	Clicking knee
+weird	B-ADR		10053168	Symptom of ankle
+symptoms	I-ADR		10053168	Symptom of ankle
+(	I-ADR		10053168	Symptom of ankle
+eg	I-ADR		10053168	Symptom of ankle
+.	I-ADR		10053168	Symptom of ankle
 
-popping	I-ADR		10053168	Clicking knee
-)	I-ADR		10053168	Clicking knee
-in	I-ADR		10053168	Clicking knee
+popping	I-ADR		10053168	Symptom of ankle
+)	I-ADR		10053168	Symptom of ankle
+in	I-ADR		10053168	Symptom of ankle
 knee	B-ADR		10053168
 ,	O
 ankle	B-ADR		CONCEPT_LESS
@@ -79504,16 +79504,16 @@ the	O
 danger	O
 .	O
 
-pain	B-ADR		10023477	Knee pain
-in	I-ADR		10023477	Knee pain
+pain	B-ADR		10023477	Foot pain
+in	I-ADR		10023477	Foot pain
 knee	B-ADR		10023477
 and	O
 foot	B-ADR		10016974
 .	O
 
-Terrible	B-ADR		10033432	Shoulder pain
-pain	I-ADR		10033432	Shoulder pain
-in	I-ADR		10033432	Shoulder pain
+Terrible	B-ADR		10033432	Hip pain
+pain	I-ADR		10033432	Hip pain
+in	I-ADR		10033432	Hip pain
 hips	B-ADR		10033432
 and	O
 shoulders	B-ADR		10040617
@@ -79763,17 +79763,17 @@ effects	O
 .	O
 
 Mostly	O
-Tingling	B-ADR		10035067	Pins and needles
+Tingling	B-ADR		10052409	Pins and needles
 /	O
 burning	B-ADR		10033386	Burning pain
 in	B-ADR		10052409
-arms	B-ADR		10033386
+arms	B-ADR		10035067
 and	O
-legs	B-ADR		10033386
+legs	B-ADR		10052409
 and	O
-back	B-ADR		10033386
-of	I-ADR		10033386
-neck	I-ADR		10033386
+back	B-ADR		10035067
+of	I-ADR		10035067
+neck	I-ADR		10035067
 ,	O
 Some	O
 lightheadedness	B-ADR		10024492	Lightheadedness
@@ -81432,9 +81432,9 @@ my	O
 legs	B-ADR		10033473	Pain in lower limb
 and	O
 ankles	B-ADR		10033379	Ankle pain
-ache	B-ADR		10033379
-so	I-ADR		10033379
-bad	I-ADR		10033379
+ache	B-ADR		10033473
+so	I-ADR		10033473
+bad	I-ADR		10033473
 ,	O
 have	O
 been	O
@@ -81800,9 +81800,9 @@ symptoms	O
 
 Recently	O
 developed	O
-inflammation	B-ADR		10028653	Myositis
-of	I-ADR		10028653	Myositis
-my	I-ADR		10028653	Myositis
+inflammation	B-ADR		10003246	Myositis
+of	I-ADR		10003246	Myositis
+my	I-ADR		10003246	Myositis
 foot	B-ADR		10028653
 muscles	I-ADR		10028653
 and	O
@@ -82456,7 +82456,7 @@ dreams	I-ADR		10000125	Abnormal dreams
 muscle	B-ADR		10028411	Myalgia
 and	O
 joint	B-ADR		10003239	Arthralgia
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 ,	O
 tiredness	B-ADR		10043890	Tiredness symptom
 .	O
@@ -82810,7 +82810,7 @@ obviously	O
 Muscle	B-ADR		10028411	Myalgia
 &	O
 joint	B-ADR		10003239	Arthralgia
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 ;	O
 severe	B-ADR		CONCEPT_LESS	Disorder of vision
 vision	I-ADR		CONCEPT_LESS	Disorder of vision
@@ -83027,7 +83027,7 @@ experience	O
 speech	B-ADR		10013952	Dysphonia
 and	O
 swallowing	B-ADR		10042647	Swallowing problem
-problems	B-ADR		10013952
+problems	B-ADR		10042647
 which	O
 got	O
 worse	O
@@ -83053,8 +83053,8 @@ speech	B-ADR		10013952	Dysphonia
 and	O
 swallowing	B-ADR		10042647	Swallowing problem
 were	O
-so	B-ADR		10013952
-bad	I-ADR		10013952
+so	B-ADR		10042647
+bad	I-ADR		10042647
 that	O
 I	O
 stopped	O
@@ -83138,7 +83138,7 @@ cause	O
 speech	B-ADR		10013952	Dysphonia
 and	O
 swallowing	B-ADR		10042647	Swallowing problem
-problems	B-ADR		10042647
+problems	B-ADR		10013952
 ,	O
 I	O
 would	O
@@ -83431,7 +83431,7 @@ the	O
 muscle	B-ADR		10028411	Myalgia
 and	O
 joint	B-ADR		10003239	Arthralgia
-pain	B-ADR		10003239
+pain	B-ADR		10028411
 she	O
 insisted	O
 that	O
@@ -83550,10 +83550,10 @@ pain	I-ADR		10033371	Constant pain
 ,	O
 and	O
 specifically	O
-terrible	B-ADR		10033379	Ankle pain
-pain	I-ADR		10033379	Ankle pain
-in	I-ADR		10033379	Ankle pain
-my	I-ADR		10033379	Ankle pain
+terrible	B-ADR		10016974	Foot pain
+pain	I-ADR		10016974	Foot pain
+in	I-ADR		10016974	Foot pain
+my	I-ADR		10016974	Foot pain
 feet	B-ADR		10016974
 and	O
 ankles	B-ADR		10033379
@@ -83658,7 +83658,7 @@ to	O
 numb	B-ADR		10049800	Numbness of foot
 toes	I-ADR		10049800	Numbness of foot
 and	O
-sore	B-ADR		10033379	Pain in lower limb
+sore	B-ADR		10033473	Pain in lower limb
 ankles	B-ADR		10033379
 and	O
 legs	B-ADR		10033473
@@ -83746,14 +83746,14 @@ I	O
 ve	O
 been	O
 experiencing	O
-muscle	B-ADR		10028411	Myalgia/myositis -pelvis/thigh
+muscle	B-ADR		10028411	Myalgia/myositis - lower leg
 /	O
 joint	B-ADR		10033432	Arthralgia of the lower leg
 pain	B-ADR		10003239
 ,	O
 mostly	O
-in	B-ADR		10033422
-legs	B-ADR		10051587
+in	B-ADR		10028411
+legs	B-ADR		10003239
 ,	O
 thighs	B-ADR		10028411
 /	O
@@ -84378,7 +84378,7 @@ musclesoreness	B-ADR		10028411	Myalgia
 .	O
 
 feet	B-ADR		10016974	Foot pain
-pains	B-ADR		10033432	Hip pain
+pains	B-ADR		10028836	Hip pain
 ,	O
 hips	B-ADR		10033432
 neck	B-ADR		10028836
@@ -84394,7 +84394,7 @@ head	B-ADR		10019211	Headache
 chest	B-ADR		10008479	Chest pain
 ,	O
 ribs	B-ADR		10048722	Rib pain
-hurt	B-ADR		10033452
+hurt	B-ADR		10048722
 .	O
 
 rashes	B-ADR		10037844	Rash
@@ -84455,7 +84455,7 @@ musclesoreness	B-ADR		10028411	Myalgia
 .	O
 
 feet	B-ADR		10016974	Foot pain
-pains	B-ADR		10033432	Neck pain
+pains	B-ADR		10028836	Hip pain
 ,	O
 hips	B-ADR		10033432
 neck	B-ADR		10028836
@@ -84471,7 +84471,7 @@ head	B-ADR		10019211	Headache
 chest	B-ADR		10008479	Chest pain
 ,	O
 ribs	B-ADR		10048722	Rib pain
-hurt	B-ADR		10033452
+hurt	B-ADR		10048722
 .	O
 
 rashes	B-ADR		10037844	Rash
@@ -84721,12 +84721,12 @@ cramps	B-ADR		10028294	Muscle cramp
 !	O
 .	O
 
-Very	B-ADR		10024891	Low back pain
-painful	I-ADR		10024891	Low back pain
-muscle	I-ADR		10024891	Low back pain
-aches	I-ADR		10024891	Low back pain
+Very	B-ADR		10051587	Low back pain
+painful	I-ADR		10051587	Low back pain
+muscle	I-ADR		10051587	Low back pain
+aches	I-ADR		10051587	Low back pain
 especially	O
-in	B-ADR		10051587
+in	B-ADR		10024891
 calves	B-ADR		10051587
 and	O
 lower	B-ADR		10024891
@@ -84770,9 +84770,9 @@ this	O
 drug	O
 .	O
 
-muscle	B-ADR		10028411	Myalgia/myositis -pelvis/thigh
-aches	I-ADR		10028411	Myalgia/myositis -pelvis/thigh
-in	I-ADR		10028411	Myalgia/myositis -pelvis/thigh
+muscle	B-ADR		10051587	Myalgia/myositis -pelvis/thigh
+aches	I-ADR		10051587	Myalgia/myositis -pelvis/thigh
+in	I-ADR		10051587	Myalgia/myositis -pelvis/thigh
 calves	B-ADR		10051587
 and	O
 thighs	B-ADR		10028411
@@ -86860,7 +86860,7 @@ knee	O
 .	O
 
 The	O
-pain	B-ADR		10033432	Pain in wrist
+pain	B-ADR		10033432	Hip pain
 has	O
 since	O
 radiated	O
@@ -87993,7 +87993,7 @@ after	O
 2	O
 years	O
 my	O
-fingertips	B-ADR		10042694	Swelling of finger
+fingertips	B-ADR		10013786	Dry skin
 got	B-ADR		10042694
 puffy	I-ADR		10042694
 and	O
@@ -88752,8 +88752,8 @@ normal	O
 wrist	B-ADR		10048692	Wrist joint pain
 and	O
 arm	B-ADR		10003239	Arthralgia of the upper arm
-joints	B-ADR		10048692
-sore	I-ADR		10048692
+joints	B-ADR		10003239
+sore	I-ADR		10003239
 ,	O
 red	B-ADR		10037844	Rash
 dots	I-ADR		10037844	Rash
@@ -89350,9 +89350,9 @@ extreme	B-ADR		10049565	Muscle fatigue
 muscle	I-ADR		10049565	Muscle fatigue
 fatigue	I-ADR		10049565	Muscle fatigue
 and	O
-pain	B-ADR		10048973	Thigh pain
-in	I-ADR		10048973	Thigh pain
-my	I-ADR		10048973	Thigh pain
+pain	B-ADR		10033422	Pain in calf
+in	I-ADR		10033422	Pain in calf
+my	I-ADR		10033422	Pain in calf
 thighs	B-ADR		10048973
 ,	O
 calves	B-ADR		10033422
@@ -89784,7 +89784,7 @@ pain	O
 -	O
 actually	O
 an	O
-ache	B-ADR		10028836
+ache	B-ADR		10003993
 ,	O
 lack	B-ADR		10003028	Loss of appetite
 of	I-ADR		10003028	Loss of appetite
@@ -89844,10 +89844,10 @@ pills	O
 -	O
 .	O
 
-Very	B-ADR		10033430	Hand pain
-severe	I-ADR		10033430	Hand pain
-pain	I-ADR		10033430	Hand pain
-in	I-ADR		10033430	Hand pain
+Very	B-ADR		10071701	Knee pain
+severe	I-ADR		10071701	Knee pain
+pain	I-ADR		10071701	Knee pain
+in	I-ADR		10071701	Knee pain
 arms	B-ADR		10071701
 ,	O
 knees	B-ADR		10023477
@@ -90075,7 +90075,7 @@ muscular	I-ADR		10028289	Muscle atrophy
 ,	O
 headache	B-ADR		10019211	Headache
 ,	O
-neck	B-ADR		10042043	Neck pain
+neck	B-ADR		10042043	Stiff neck
 pain	B-ADR		10028836
 and	O
 stiffness	B-ADR		10042043
@@ -91021,9 +91021,9 @@ daily	O
 
 depression	B-ADR		10012378	Depression
 ,	O
-muscle	B-ADR		10016974	Hip pain
-pain	I-ADR		10016974	Hip pain
-in	I-ADR		10016974	Hip pain
+muscle	B-ADR		10028411	Hip pain
+pain	I-ADR		10028411	Hip pain
+in	I-ADR		10028411	Hip pain
 shoulders	B-ADR		10028411
 ,	O
 hips	B-ADR		10033432
@@ -92035,8 +92035,8 @@ effects	O
 He	O
 suffered	O
 terrible	O
-pains	B-ADR		10033430	Pain in lower limb
-in	I-ADR		10033430	Pain in lower limb
+pains	B-ADR		10033473	Hand pain
+in	I-ADR		10033473	Hand pain
 hips	B-ADR		10033432
 ,	O
 legs	B-ADR		10033473
@@ -92277,8 +92277,8 @@ no	B-ADR		10023614	Loss of motivation
 motivation	I-ADR		10023614	Loss of motivation
 ,	O
 and	O
-pain	B-ADR		10028836	Proximal interphalangeal joint of finger pain
-in	I-ADR		10028836	Proximal interphalangeal joint of finger pain
+pain	B-ADR		10033456	Proximal interphalangeal joint of finger pain
+in	I-ADR		10033456	Proximal interphalangeal joint of finger pain
 knuckles	B-ADR		10033456
 ,	O
 neck	B-ADR		10028836
@@ -93035,11 +93035,11 @@ TOO	O
 DANGEROUS	O
 .	O
 
-Chronic	B-ADR		10003239	Myalgia
-pain	I-ADR		10003239	Myalgia
-in	I-ADR		10003239	Myalgia
-all	I-ADR		10003239	Myalgia
-my	I-ADR		10003239	Myalgia
+Chronic	B-ADR		10003239	Arthralgia
+pain	I-ADR		10003239	Arthralgia
+in	I-ADR		10003239	Arthralgia
+all	I-ADR		10003239	Arthralgia
+my	I-ADR		10003239	Arthralgia
 joints	B-ADR		10003239
 and	O
 muscles	B-ADR		10028411
@@ -93082,7 +93082,7 @@ the	O
 joint	B-ADR		10003239	Arthralgia
 and	O
 muscle	B-ADR		10028411	Myalgia
-pain	B-ADR		10028411
+pain	B-ADR		10003239
 already	O
 and	O
 was	O
@@ -93245,8 +93245,8 @@ had	O
 increasing	O
 non	O
 stop	O
-Pain	B-ADR		10028836	Backache
-in	I-ADR		10028836	Backache
+Pain	B-ADR		10003993	Backache
+in	I-ADR		10003993	Backache
 neck	B-ADR		10028836
 and	O
 back	B-ADR		10003993
@@ -93640,7 +93640,7 @@ No	O
 muscle	B-ADR		10028641	Myopathy
 or	O
 joint	B-ADR		10003285	Arthropathy
-problems	B-ADR		10028641
+problems	B-ADR		10003285
 through	O
 1	O
 year	O
@@ -93985,8 +93985,8 @@ for	O
 it	O
 .	O
 
-aching	B-ADR		10040618	Knee pain
-joints	I-ADR		10040618	Knee pain
+aching	B-ADR		10048692	Elbow joint pain
+joints	I-ADR		10048692	Elbow joint pain
 :	O
 wrists	B-ADR		10048692
 ,	O
@@ -94215,10 +94215,10 @@ to	O
 expect	O
 .	O
 
-Slight	B-ADR		10028411	Myalgia/myositis - lower leg
-muscle	I-ADR		10028411	Myalgia/myositis - lower leg
-soreness	I-ADR		10028411	Myalgia/myositis - lower leg
-in	I-ADR		10028411	Myalgia/myositis - lower leg
+Slight	B-ADR		10051587	Myalgia/myositis - forearm
+muscle	I-ADR		10051587	Myalgia/myositis - forearm
+soreness	I-ADR		10051587	Myalgia/myositis - forearm
+in	I-ADR		10051587	Myalgia/myositis - forearm
 arms	B-ADR		10028411
 and	O
 legs	B-ADR		10051587
@@ -94577,7 +94577,7 @@ tiredness	B-ADR		10043890	Tiredness symptom
 foggy	B-ADR		10027371	Mentally dull
 brain	I-ADR		10027371	Mentally dull
 ,	O
-sore	B-ADR		10016974	Pain in lower limb
+sore	B-ADR		10016974	Foot pain
 feet	B-ADR		10016974
 /	O
 legs	B-ADR		10033473
@@ -95659,11 +95659,11 @@ could	O
 do	O
 .	O
 
-aches	B-ADR		10040617	Shoulder pain
-and	I-ADR		10040617	Shoulder pain
-pain	I-ADR		10040617	Shoulder pain
-in	I-ADR		10040617	Shoulder pain
-both	I-ADR		10040617	Shoulder pain
+aches	B-ADR		10071701	Pain in upper limb
+and	I-ADR		10071701	Pain in upper limb
+pain	I-ADR		10071701	Pain in upper limb
+in	I-ADR		10071701	Pain in upper limb
+both	I-ADR		10071701	Pain in upper limb
 arms	B-ADR		10071701
 and	O
 shoulders	B-ADR		10040617
@@ -95829,7 +95829,7 @@ hip	B-ADR		10033432	Hip pain
 knee	B-ADR		10023477	Knee pain
 /	O
 ankle	B-ADR		10033379	Ankle pain
-pain	B-ADR		10023477
+pain	B-ADR		10033379
 ,	O
 and	O
 back	B-ADR		10003993	Backache
@@ -95919,9 +95919,9 @@ to	O
 go	O
 .	O
 
-Right	B-ADR		10023477	Knee pain
-knee	I-ADR		10023477	Knee pain
-always	I-ADR		10023477	Knee pain
+Right	B-ADR		10023477	Swelling of knee joint
+knee	I-ADR		10023477	Swelling of knee joint
+always	I-ADR		10023477	Swelling of knee joint
 sore	B-ADR		10023477
 and	O
 swollen	B-ADR		10042697
@@ -96437,7 +96437,7 @@ and	O
 calf	B-ADR		10011294	Cramp in calf
 /	O
 toe	B-ADR		10011301	Cramp in lower limb
-cramps	B-ADR		10011294
+cramps	B-ADR		10011301
 -	O
 also	O
 the	O
@@ -96632,10 +96632,10 @@ i	O
 started	O
 to	O
 get	O
-very	B-ADR		10033447	Shoulder pain
-bad	I-ADR		10033447	Shoulder pain
-pains	I-ADR		10033447	Shoulder pain
-in	I-ADR		10033447	Shoulder pain
+very	B-ADR		10033430	Hand pain
+bad	I-ADR		10033430	Hand pain
+pains	I-ADR		10033430	Hand pain
+in	I-ADR		10033430	Hand pain
 hands	B-ADR		10033430
 ,	O
 arms	B-ADR		10033447
@@ -96925,7 +96925,7 @@ longer	O
 Muscle	B-ADR		10028411	Myalgia
 and	O
 joint	B-ADR		10003239	Arthralgia
-pain	B-ADR		10028411
+pain	B-ADR		10003239
 developed	O
 after	O
 approx	O
@@ -97005,8 +97005,8 @@ drug	O
 again	O
 .	O
 
-Eczema	B-ADR		10014184	Foot eczema
-on	I-ADR		10014184	Foot eczema
+Eczema	B-ADR		10014184	Hand eczema
+on	I-ADR		10014184	Hand eczema
 hands	B-ADR		10014184
 and	O
 feet	B-ADR		10014184
@@ -98403,9 +98403,9 @@ have	O
 pain	B-ADR		10033428	Pain in finger
 and	O
 tingling	B-ADR		10035067	Pins and needles
-in	B-ADR		10035067
-my	I-ADR		10035067
-fingers	I-ADR		10035067
+in	B-ADR		10033428
+my	I-ADR		10033428
+fingers	I-ADR		10033428
 as	O
 well	O
 as	O
@@ -98907,8 +98907,8 @@ of	I-ADR		10016974	Foot pain
 my	I-ADR		10016974	Foot pain
 foot	I-ADR		10016974	Foot pain
 is	I-ADR		10016974	Foot pain
-extremely	B-ADR		10033371	Severe pain
-tender	I-ADR		10033371	Severe pain
+extremely	B-ADR		10016974	Severe pain
+tender	I-ADR		10016974	Severe pain
 as	O
 are	O
 my	O
@@ -99677,7 +99677,7 @@ elbow	I-ADR		10033371	Severe pain
 arm	B-ADR		10071701	Pain in upper limb
 and	O
 shoulder	B-ADR		10040617	Shoulder pain
-pain	B-ADR		10033371
+pain	B-ADR		10040617
 .	O
 
 It	O
@@ -99728,9 +99728,9 @@ my	O
 family	O
 as	O
 the	O
-pain	B-ADR		10071701	Shoulder pain
-in	I-ADR		10071701	Shoulder pain
-my	I-ADR		10071701	Shoulder pain
+pain	B-ADR		10040617	Pain in upper limb
+in	I-ADR		10040617	Pain in upper limb
+my	I-ADR		10040617	Pain in upper limb
 arms	B-ADR		10071701
 and	O
 shoulder	B-ADR		10040617
@@ -100137,13 +100137,13 @@ advice	O
 !	O
 .	O
 
-Aching	B-ADR		10033473	Shoulder joint pain
-weakness	B-ADR		10028350	Weakness of back
+Aching	B-ADR		10040618	Pain in lower limb
+weakness	B-ADR		10028350	Shoulder girdle weakness
 in	B-ADR		10033473
 legs	B-ADR		10033473
 back	B-ADR		10003993
 and	O
-shoulders	B-ADR		10065895
+shoulders	B-ADR		10040618
 .	O
 
 Side	O
@@ -100171,7 +100171,7 @@ will	O
 .	O
 
 Body	B-ADR		10018074	Generalised aches and pains
-aches	B-ADR		10018074	Knee pain
+aches	B-ADR		10008479	Knee pain
 (	O
 knees	B-ADR		10023477
 ,	O
@@ -101894,9 +101894,9 @@ years	O
 .	O
 
 increasing	O
-muscle	B-ADR		10051587	Hip pain
-pain	I-ADR		10051587	Hip pain
-in	I-ADR		10051587	Hip pain
+muscle	B-ADR		10051587	Myalgia/myositis - lower leg
+pain	I-ADR		10051587	Myalgia/myositis - lower leg
+in	I-ADR		10051587	Myalgia/myositis - lower leg
 legs	B-ADR		10051587
 ,	O
 right	B-ADR		10033432
@@ -102170,11 +102170,11 @@ arms	B-ADR		CONCEPT_LESS
 ,	O
 hands	B-ADR		10065702	Weakness of hand
 ,	I-ADR		10065702	Weakness of hand
-have	B-ADR		CONCEPT_LESS
-little	I-ADR		CONCEPT_LESS
-or	I-ADR		CONCEPT_LESS
-no	I-ADR		CONCEPT_LESS
-grip	I-ADR		CONCEPT_LESS
+have	B-ADR		10065702
+little	I-ADR		10065702
+or	I-ADR		10065702
+no	I-ADR		10065702
+grip	I-ADR		10065702
 ,	O
 I	O
 am	O
@@ -103063,7 +103063,7 @@ effects	O
 .	O
 
 My	O
-fingers	B-ADR		10033428	Pain in finger
+fingers	B-ADR		10042694	Swelling of finger
 swelled	B-ADR		10042694
 up	I-ADR		10042694
 and	O
@@ -103313,8 +103313,8 @@ from	O
 regular	O
 dioreaha	B-ADR		10012735	Diarrhoea
 and	O
-muscle	B-ADR		10003993	Myalgia/myositis - shoulder
-pain	I-ADR		10003993	Myalgia/myositis - shoulder
+muscle	B-ADR		10028411	Myalgia/myositis - shoulder
+pain	I-ADR		10028411	Myalgia/myositis - shoulder
 in	B-ADR		10003993
 back	I-ADR		10003993
 and	O
@@ -103506,8 +103506,8 @@ a	O
 day	O
 .	O
 
-Legs	B-ADR		10049565	Muscle fatigue
-feel	I-ADR		10049565	Muscle fatigue
+Legs	B-ADR		10011301	Muscle fatigue
+feel	I-ADR		10011301	Muscle fatigue
 tired	B-ADR		10049565
 and	O
 swollen	B-ADR		10011301
@@ -103690,7 +103690,7 @@ psychological	O
 It	O
 '	O
 s	O
-destroyed	B-ADR		10024854	Lacks confidence
+destroyed	B-ADR		CONCEPT_LESS	Lacks confidence
 my	B-ADR		10024854
 self	I-ADR		10024854
 -	I-ADR		10024854
@@ -104683,11 +104683,11 @@ vertigo	B-ADR		10047340	Vertigo
 ,	O
 tingling	B-ADR		10035067	Pins and needles
 and	O
-numbness	B-ADR		10049681	Numbness of lower limb
+numbness	B-ADR		10029833	Numbness of hand
 (	O
 hands	B-ADR		10035067
 ,	O
-legs	B-ADR		10029850
+legs	B-ADR		10035067
 ,	O
 face	B-ADR		10035067
 )	O
@@ -105209,19 +105209,19 @@ knees	B-ADR		10033371
 Pain	B-ADR		10033430	Pain in lower limb
 and	O
 cramping	B-ADR		10011290	Cramp in lower leg
-in	B-ADR		10011290
-my	I-ADR		10011290
+in	B-ADR		10011287
+my	I-ADR		10011287
 hands	B-ADR		10033430
 and	O
 lower	B-ADR		10011290
 legs	I-ADR		10011290
 .	O
 
-Numbness	B-ADR		10049799	Numbness of toe
-in	I-ADR		10049799	Numbness of toe
-all	I-ADR		10049799	Numbness of toe
-of	I-ADR		10049799	Numbness of toe
-my	I-ADR		10049799	Numbness of toe
+Numbness	B-ADR		10029845	Numbness of toe
+in	I-ADR		10029845	Numbness of toe
+all	I-ADR		10029845	Numbness of toe
+of	I-ADR		10029845	Numbness of toe
+my	I-ADR		10029845	Numbness of toe
 finger	B-ADR		10029845
 tips	I-ADR		10029845
 and	O
@@ -105401,8 +105401,8 @@ thighs	B-ADR		10033371
 
 I	O
 became	O
-unable	B-ADR		10045474	Unable to move leg
-to	I-ADR		10045474	Unable to move leg
+unable	B-ADR		10045474	Difficulty dressing
+to	I-ADR		10045474	Difficulty dressing
 lift	B-ADR		10045474
 my	I-ADR		10045474
 legs	I-ADR		10045474
@@ -106397,8 +106397,8 @@ fatigue	I-ADR		10008874	Chronic fatigue syndrome
 muscle	B-ADR		10028350	Muscle weakness
 weakness	I-ADR		10028350	Muscle weakness
 ,	O
-problems	B-ADR		10027175	Unable to concentrate
-with	I-ADR		10027175	Unable to concentrate
+problems	B-ADR		10027175	Memory impairment
+with	I-ADR		10027175	Memory impairment
 memory	B-ADR		10027175
 ,	O
 concentration	B-ADR		10010248
@@ -106591,12 +106591,12 @@ anything	O
 else	O
 .	O
 
-Joint	B-ADR		10023230	Joint stiffness
+Joint	B-ADR		10003239	Joint stiffness
 and	O
-Muscle	B-ADR		10028330	Muscle rigidity
-Pain	B-ADR		10028411
+Muscle	B-ADR		10028330	Myalgia
+Pain	B-ADR		10003239
 /	O
-Stiffness	B-ADR		10023230
+Stiffness	B-ADR		10028330
 .	O
 
 I	O
@@ -106879,16 +106879,16 @@ nonuse	O
 I	O
 still	O
 have	O
-stiffness	B-ADR		10049770	Stiff legs
+stiffness	B-ADR		10024509	Stiff legs
 ,	O
 weakness	B-ADR		10047868	Weakness of limb
 &	O
 pain	B-ADR		10033432	Hip pain
-in	B-ADR		10033432
-both	B-ADR		10024509
-legs	I-ADR		10024509
+in	B-ADR		10047868
+both	B-ADR		10047868
+legs	I-ADR		10047868
 /	O
-hips	B-ADR		10033432
+hips	B-ADR		10047868
 ,	O
 especially	O
 right	O
@@ -107002,7 +107002,7 @@ arm	B-ADR		10047868	Weakness of limb
 and	O
 total	B-ADR		10028350	Muscle weakness
 muscel	I-ADR		10028350	Muscle weakness
-weakness	B-ADR		10047868
+weakness	B-ADR		10028350
 ,	O
 could	B-ADR		10049278	Unable to walk
 not	I-ADR		10049278	Unable to walk
@@ -107597,7 +107597,7 @@ satisfied	O
 Achilles	B-ADR		10000441	Achilles tendonitis
 peritendonitis	I-ADR		10000441	Achilles tendonitis
 and	O
-sore	B-ADR		10033379	Ankle pain
+sore	B-ADR		10023477	Knee pain
 ankles	B-ADR		10033379
 ,	O
 knees	B-ADR		10023477
@@ -107741,9 +107741,9 @@ being	O
 clumsy	O
 .	O
 
-Joint	B-ADR		10033424	Elbow joint pain
-pain	I-ADR		10033424	Elbow joint pain
-in	I-ADR		10033424	Elbow joint pain
+Joint	B-ADR		10033424	Hip pain
+pain	I-ADR		10033424	Hip pain
+in	I-ADR		10033424	Hip pain
 spine	B-ADR		10052060
 ,	O
 hips	B-ADR		10033432
@@ -108840,10 +108840,10 @@ have	O
 burning	B-ADR		10049854	Burning feet
 ,	O
 numb	B-ADR		10049799	Numbness of toe
-feet	B-ADR		10049799
-in	I-ADR		10049799
-toe	I-ADR		10049799
-area	I-ADR		10049799
+feet	B-ADR		10049854
+in	I-ADR		10049854
+toe	I-ADR		10049854
+area	I-ADR		10049854
 -	O
 both	O
 feet	O
@@ -109520,8 +109520,8 @@ halucinations	B-ADR		10019063	Hallucinations
 during	I-ADR		10019063	Hallucinations
 day	I-ADR		10019063	Hallucinations
 ,	O
-unable	B-ADR		10049278	Unable to get off a bed
-to	I-ADR		10049278	Unable to get off a bed
+unable	B-ADR		10049278	Unable to walk
+to	I-ADR		10049278	Unable to walk
 walk	B-ADR		10049278
 for	O
 2	O
@@ -110375,7 +110375,7 @@ legs	I-ADR		10047868	Weakness of limb
 muscle	B-ADR		10028411	Myalgia
 and	O
 back	B-ADR		10003993	Backache
-soreness	B-ADR		10003993
+soreness	B-ADR		10028411
 ,	O
 ears	B-ADR		10039183	Ringing in ear
 ringing	I-ADR		10039183	Ringing in ear
@@ -113923,8 +113923,8 @@ out	I-ADR		CONCEPT_LESS	Unable to get off a bed
 of	I-ADR		CONCEPT_LESS	Unable to get off a bed
 bed	I-ADR		CONCEPT_LESS	Unable to get off a bed
 ,	O
-loss	B-ADR		10001949	Muscle weakness
-of	I-ADR		10001949	Muscle weakness
+loss	B-ADR		10028350	Amnesia
+of	I-ADR		10028350	Amnesia
 strength	B-ADR		10028350
 ,	O
 memory	B-ADR		10001949
@@ -114421,7 +114421,7 @@ neck	I-ADR		10033371	Severe pain
 shoulder	B-ADR		10040617	Shoulder pain
 ,	O
 back	B-ADR		10003993	Backache
-pain	B-ADR		10033371
+pain	B-ADR		10040617
 .	O
 
 leg	B-ADR		10033473	Pain in lower limb
@@ -114479,7 +114479,7 @@ Hip	B-ADR		10033432	Hip pain
 leg	B-ADR		10033473	Pain in lower limb
 ,	O
 shoulder	B-ADR		10040617	Shoulder pain
-pain	B-ADR		10040617
+pain	B-ADR		10033473
 .	O
 
 Developed	O
@@ -114819,7 +114819,7 @@ neck	B-ADR		10028836	Neck pain
 ,	O
 and	O
 shoulder	B-ADR		10040617	Shoulder pain
-pain	B-ADR		10028836
+pain	B-ADR		10040617
 .	O
 
 .	O
@@ -114876,8 +114876,8 @@ triglycerides	O
 Muscle	B-ADR		10028411	Myalgia
 aches	I-ADR		10028411	Myalgia
 and	O
-weakness	B-ADR		10028350	Weakness of neck
-in	I-ADR		10028350	Weakness of neck
+weakness	B-ADR		10065895	Weakness of neck
+in	I-ADR		10065895	Weakness of neck
 neck	B-ADR		10028350
 ,	O
 arms	B-ADR		10047868
@@ -115144,7 +115144,7 @@ times	O
 
 Started	O
 with	O
-muscle	B-ADR		10028411	Muscle weakness
+muscle	B-ADR		10028350	Myalgia
 pain	B-ADR		10028411
 and	O
 weakness	B-ADR		10028350
@@ -115901,11 +115901,11 @@ tight	I-ADR		10070541	Muscle tension
 
 Now	O
 the	O
-pain	B-ADR		10033421	Shoulder pain
-has	I-ADR		10033421	Shoulder pain
-gone	I-ADR		10033421	Shoulder pain
-into	I-ADR		10033421	Shoulder pain
-my	I-ADR		10033421	Shoulder pain
+pain	B-ADR		10040617	Pain in left arm
+has	I-ADR		10040617	Pain in left arm
+gone	I-ADR		10040617	Pain in left arm
+into	I-ADR		10040617	Pain in left arm
+my	I-ADR		10040617	Pain in left arm
 shoulder	B-ADR		10040617
 and	O
 upper	B-ADR		10033421
@@ -116146,9 +116146,9 @@ failure	I-ADR		10038435	Renal failure
 difficulty	B-ADR		10042645	Difficulty swallowing
 swallowing	I-ADR		10042645	Difficulty swallowing
 ,	O
-persistent	B-ADR		10023477	Knee pain
-pain	I-ADR		10023477	Knee pain
-in	I-ADR		10023477	Knee pain
+persistent	B-ADR		10033422	Pain in calf
+pain	I-ADR		10033422	Pain in calf
+in	I-ADR		10033422	Pain in calf
 calf	B-ADR		10033422
 and	O
 knee	B-ADR		10023477
@@ -116363,9 +116363,9 @@ pains	I-ADR		10033371	Severe pain
 horrible	B-ADR		10016256	Fatigue
 fatigue	I-ADR		10016256	Fatigue
 ,	O
-tingling	B-ADR		10035067	Pins and needles
-in	I-ADR		10035067	Pins and needles
-my	I-ADR		10035067	Pins and needles
+tingling	B-ADR		10052409	Paraesthesia of lower extremity
+in	I-ADR		10052409	Paraesthesia of lower extremity
+my	I-ADR		10052409	Paraesthesia of lower extremity
 arms	B-ADR		10035067
 ,	O
 legs	B-ADR		10052409
@@ -116592,9 +116592,9 @@ thigh	I-ADR		10029850	Numbness of lower limb
 pain	B-ADR		10016974	Foot pain
 and	O
 numbness	B-ADR		10049800	Numbness of foot
-in	B-ADR		10049800
-left	I-ADR		10049800
-foot	I-ADR		10049800
+in	B-ADR		10016974
+left	I-ADR		10016974
+foot	I-ADR		10016974
 ,	O
 left	B-ADR		CONCEPT_LESS
 foot	I-ADR		CONCEPT_LESS
@@ -116899,10 +116899,10 @@ acute	B-ADR		10028350	Muscle weakness
 weakness	I-ADR		10028350	Muscle weakness
 in	I-ADR		10028350	Muscle weakness
 the	I-ADR		10028350	Muscle weakness
-muscles	B-ADR		10011973	Reduction of bulk of muscle
-of	I-ADR		10011973	Reduction of bulk of muscle
-whole	I-ADR		10011973	Reduction of bulk of muscle
-body	I-ADR		10011973	Reduction of bulk of muscle
+muscles	B-ADR		10028350	Reduction of bulk of muscle
+of	I-ADR		10028350	Reduction of bulk of muscle
+whole	I-ADR		10028350	Reduction of bulk of muscle
+body	I-ADR		10028350	Reduction of bulk of muscle
 and	O
 their	O
 dilution	B-ADR		10011973
@@ -117035,7 +117035,7 @@ the	O
 diseases	O
 .	O
 
-Swollen	B-ADR		10042715	Foot swelling
+Swollen	B-ADR		10042693	Swollen ankle
 ,	O
 burning	B-ADR		10049854	Burning sensation
 feet	B-ADR		10042693
@@ -117179,8 +117179,8 @@ Arms	B-ADR		10040000	Heavy feeling
 feel	I-ADR		10040000	Heavy feeling
 HEAVY	I-ADR		10040000	Heavy feeling
 and	O
-hands	B-ADR		10049230	Numbness of hand
-are	I-ADR		10049230	Numbness of hand
+hands	B-ADR		10049681	Numbness of hand
+are	I-ADR		10049681	Numbness of hand
 tingling	B-ADR		10049230
 and	O
 somewhat	B-ADR		10049681
@@ -117595,9 +117595,9 @@ this	O
 tremors	B-ADR		10044565	Tremor
 and	O
 tingles	B-ADR		10033775	Paraesthesia
-although	B-ADR		10044565
-the	I-ADR		10044565
-body	I-ADR		10044565
+although	B-ADR		10033775
+the	I-ADR		10033775
+body	I-ADR		10033775
 .	O
 
 Deep	B-ADR		10012378	Depression
@@ -117605,9 +117605,9 @@ depression	I-ADR		10012378	Depression
 ,	O
 insomnia	B-ADR		10022437	Insomnia
 ,	O
-joint	B-ADR		10024509	Hand joint stiff
-stiffness	I-ADR		10024509	Hand joint stiff
-in	I-ADR		10024509	Hand joint stiff
+joint	B-ADR		10024509	Stiff limbs
+stiffness	I-ADR		10024509	Stiff limbs
+in	I-ADR		10024509	Stiff limbs
 hands	B-ADR		10042041
 and	O
 feet	B-ADR		10024509
@@ -117895,7 +117895,7 @@ eyes	I-ADR		10013778	Dry eyes
 .	O
 
 My	O
-eyes	B-ADR		10013778	Abrasion of eye region
+eyes	B-ADR		10049796	Abrasion of eye region
 are	B-ADR		10013778
 so	I-ADR		10013778
 dry	I-ADR		10013778
@@ -118799,7 +118799,7 @@ severe	B-ADR		10033371	Severe pain
 shoulder	I-ADR		10033371	Severe pain
 and	O
 knee	B-ADR		10023477	Knee pain
-pain	B-ADR		10023477
+pain	B-ADR		10033371
 ,	O
 insomnia	B-ADR		10022437	Insomnia
 ,	O
@@ -119495,7 +119495,7 @@ got	O
 foot	B-ADR		10016964	Cramp in foot
 /	O
 leg	B-ADR		10011301	Cramp in lower limb
-cramps	B-ADR		10011301
+cramps	B-ADR		10016964
 .	O
 
 I	O
@@ -120058,10 +120058,10 @@ is	O
 fine	O
 .	O
 
-Joint	B-ADR		10023477	Hip pain
-pain	I-ADR		10023477	Hip pain
-in	I-ADR		10023477	Hip pain
-the	I-ADR		10023477	Hip pain
+Joint	B-ADR		10033432	Knee pain
+pain	I-ADR		10033432	Knee pain
+in	I-ADR		10033432	Knee pain
+the	I-ADR		10033432	Knee pain
 knees	B-ADR		10023477
 and	O
 hips	B-ADR		10033432
@@ -120296,8 +120296,8 @@ pains	I-ADR		10033473	Pain in lower limb
 balance	B-ADR		10027175	Impairment of balance
 off	I-ADR		10027175	Impairment of balance
 ,	O
-back	B-ADR		10046273	Low back pain
-pain	I-ADR		10046273	Low back pain
+back	B-ADR		10024891	Thoracic back pain
+pain	I-ADR		10024891	Thoracic back pain
 (	O
 Lower	B-ADR		10024891
 and	O
@@ -120479,8 +120479,8 @@ mg	O
 
 and	O
 experiencing	O
-pain	B-ADR		10033473	Foot pain
-in	I-ADR		10033473	Foot pain
+pain	B-ADR		10016974	Foot pain
+in	I-ADR		10016974	Foot pain
 feet	B-ADR		10016974
 and	O
 legs	B-ADR		10033473
@@ -120640,7 +120640,7 @@ months	O
 and	O
 then	O
 I	O
-tore	O	Tear of meniscus of knee
+tore	O	Rupture of tendon of lower leg and ankle
 a	O
 tendon	O
 in	O
@@ -121882,10 +121882,10 @@ THIS	O
 !	O
 .	O
 
-Swollen	B-ADR		10042689	Swollen knee
+Swollen	B-ADR		10042697	Swollen knee
 and	O
-stiff	B-ADR		10042041	Elbow stiff
-knees	B-ADR		10042042
+stiff	B-ADR		10042042	Elbow stiff
+knees	B-ADR		10042697
 and	O
 elbows	B-ADR		10042041
 ,	O
@@ -121918,15 +121918,15 @@ for	O
 2	O
 years	O
 my	O
-knees	B-ADR		10023477	Knee pain
+knees	B-ADR		10023477	Knee stiff
 and	O
-elbows	B-ADR		10033424	Pain in elbow
+elbows	B-ADR		10042041	Elbow stiff
 were	O
 getting	O
 increasingly	O
 stiff	B-ADR		10042042
 and	O
-sore	B-ADR		10023477
+sore	B-ADR		10033424
 .	O
 
 I	O
@@ -122237,9 +122237,9 @@ headaches	B-ADR		10019211	Headache
 extreme	B-ADR		10003549	Asthenia
 fatigued	I-ADR		10003549	Asthenia
 ,	O
-tingling	B-ADR		10035067	Pins and needles
-in	I-ADR		10035067	Pins and needles
-my	I-ADR		10035067	Pins and needles
+tingling	B-ADR		10052409	Paraesthesia of lower extremity
+in	I-ADR		10052409	Paraesthesia of lower extremity
+my	I-ADR		10052409	Paraesthesia of lower extremity
 arms	B-ADR		10035067
 and	O
 legs	B-ADR		10052409
@@ -123075,9 +123075,9 @@ pain	I-ADR		10033371	Severe pain
 and	O
 weakness	B-ADR		10003549	Asthenia
 ,	O
-muscle	B-ADR		10011292	Facial spasm
-cramps	I-ADR		10011292	Facial spasm
-in	I-ADR		10011292	Facial spasm
+muscle	B-ADR		10016964	Spasm of back muscles
+cramps	I-ADR		10016964	Spasm of back muscles
+in	I-ADR		10016964	Spasm of back muscles
 legs	B-ADR		10011301
 ,	O
 feet	B-ADR		10016964
@@ -123150,14 +123150,14 @@ having	O
 severe	B-ADR		10033371	Severe pain
 pain	I-ADR		10033371	Severe pain
 and	O
-weakness	B-ADR		10028350	Muscle weakness
-in	I-ADR		10028350	Muscle weakness
+weakness	B-ADR		10047868	Weakness of limb
+in	I-ADR		10047868	Weakness of limb
 my	O
 muscles	B-ADR		10033371
 ,	O
 especially	O
 the	O
-legs	B-ADR		10047868
+legs	B-ADR		10033371
 .	O
 
 I	O
@@ -123678,12 +123678,12 @@ and	O
 the	O
 tingling	B-ADR		10035067	Pins and needles
 and	O
-numbness	B-ADR		10049800	Numbness of foot
+numbness	B-ADR		10029850	Numbness of lower limb
 in	B-ADR		10049800
 my	I-ADR		10049800
 feet	B-ADR		10035067
 and	O
-shins	B-ADR		10029850
+shins	B-ADR		10035067
 escalated	O
 .	O
 
@@ -123734,11 +123734,11 @@ night	I-ADR		10022437	Insomnia
 because	O
 of	O
 the	O
-sensations	B-ADR		10052409	Paraesthesia of lower extremity
-of	I-ADR		10052409	Paraesthesia of lower extremity
-tingling	I-ADR		10052409	Paraesthesia of lower extremity
-in	I-ADR		10052409	Paraesthesia of lower extremity
-my	I-ADR		10052409	Paraesthesia of lower extremity
+sensations	B-ADR		10052407	Paraesthesia of lower extremity
+of	I-ADR		10052407	Paraesthesia of lower extremity
+tingling	I-ADR		10052407	Paraesthesia of lower extremity
+in	I-ADR		10052407	Paraesthesia of lower extremity
+my	I-ADR		10052407	Paraesthesia of lower extremity
 legs	B-ADR		10052409
 and	O
 feet	B-ADR		10052407
@@ -124013,8 +124013,8 @@ cough	B-ADR		10011224	Cough
 heavily	I-ADR		10011224	Cough
 .	O
 
-Pain	B-ADR		10033379	Arthralgia
-in	I-ADR		10033379	Arthralgia
+Pain	B-ADR		10040617	Arthralgia
+in	I-ADR		10040617	Arthralgia
 joints	B-ADR		10003239
 and	O
 muscles	B-ADR		10028411
@@ -128057,11 +128057,11 @@ night	O
 same	O
 thing	O
 plus	O
-pain	B-ADR		10042076	Renal pain
-in	I-ADR		10042076	Renal pain
-my	I-ADR		10042076	Renal pain
-kidney	I-ADR		10042076	Renal pain
-area	I-ADR		10042076	Renal pain
+pain	B-ADR		10042076	Stomach ache
+in	I-ADR		10042076	Stomach ache
+my	I-ADR		10042076	Stomach ache
+kidney	I-ADR		10042076	Stomach ache
+area	I-ADR		10042076	Stomach ache
 as	O
 well	O
 as	O
@@ -129592,8 +129592,8 @@ sweating	B-ADR		10042661	Sweating
 ,	O
 nausea	B-ADR		10028813	Nausea
 ,	O
-pain	B-ADR		10042076	Stomach ache
-in	I-ADR		10042076	Stomach ache
+pain	B-ADR		10003993	Backache
+in	I-ADR		10003993	Backache
 stomach	B-ADR		10042076
 &	O
 back	B-ADR		10003993
