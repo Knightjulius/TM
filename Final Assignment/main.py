@@ -227,3 +227,73 @@ model.save_pretrained(output_dir)
 tokenizer.save_pretrained(output_dir)
 
 print(f"Model and tokenizer saved to {output_dir}")
+
+
+# Load and preprocess datase
+# edit training set here
+dataset = create_dataset("Train-test-split/train_Meddra.txt", "Train-test-split/validation_Org.txt", "Train-test-split/test_Org.txt")
+tokenized_datasets = tokenize_and_align_labels(dataset, tokenizer)
+
+# Prepare TensorFlow datasets
+tf_train, tf_val, tf_test = prepare_tf_datasets(tokenized_datasets, tokenizer)
+
+# Initialize and compile model
+model = initialize_model('bert-base-cased')
+model = compile_model(model, tf_train)
+
+# Training (fit separately)
+model.fit(tf_train, validation_data=tf_val, epochs=3)
+
+# Save the trained model and tokenizer
+# edit name for train set
+output_dir = "saved_model/Meddra/"
+model.save_pretrained(output_dir)
+tokenizer.save_pretrained(output_dir)
+
+print(f"Model and tokenizer saved to {output_dir}")
+
+# Load and preprocess datase
+# edit training set here
+dataset = create_dataset("Train-test-split/train_Sct.txt", "Train-test-split/validation_Org.txt", "Train-test-split/test_Org.txt")
+tokenized_datasets = tokenize_and_align_labels(dataset, tokenizer)
+
+# Prepare TensorFlow datasets
+tf_train, tf_val, tf_test = prepare_tf_datasets(tokenized_datasets, tokenizer)
+
+# Initialize and compile model
+model = initialize_model('bert-base-cased')
+model = compile_model(model, tf_train)
+
+# Training (fit separately)
+model.fit(tf_train, validation_data=tf_val, epochs=3)
+
+# Save the trained model and tokenizer
+# edit name for train set
+output_dir = "saved_model/Sct/"
+model.save_pretrained(output_dir)
+tokenizer.save_pretrained(output_dir)
+
+print(f"Model and tokenizer saved to {output_dir}")
+
+# Load and preprocess datase
+# edit training set here
+dataset = create_dataset("Train-test-split/train_All.txt", "Train-test-split/validation_Org.txt", "Train-test-split/test_Org.txt")
+tokenized_datasets = tokenize_and_align_labels(dataset, tokenizer)
+
+# Prepare TensorFlow datasets
+tf_train, tf_val, tf_test = prepare_tf_datasets(tokenized_datasets, tokenizer)
+
+# Initialize and compile model
+model = initialize_model('bert-base-cased')
+model = compile_model(model, tf_train)
+
+# Training (fit separately)
+model.fit(tf_train, validation_data=tf_val, epochs=3)
+
+# Save the trained model and tokenizer
+# edit name for train set
+output_dir = "saved_model/Org/"
+model.save_pretrained(output_dir)
+tokenizer.save_pretrained(output_dir)
+
+print(f"Model and tokenizer saved to {output_dir}")
